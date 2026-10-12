@@ -7,7 +7,7 @@
 
 [![Empire checks](https://github.com/radhepa/Meowths-Payday/actions/workflows/check.yml/badge.svg)](https://github.com/radhepa/Meowths-Payday/actions/workflows/check.yml)
 [![Windows](https://img.shields.io/badge/Windows-Offline%20Adventure-39BD88?style=for-the-badge)](https://github.com/radhepa/Meowths-Payday/releases/latest)
-[![Release](https://img.shields.io/github/v/release/radhepa/Meowths-Payday?style=for-the-badge&color=FFD85C)](https://github.com/radhepa/Meowths-Payday/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.1.3-FFD85C?style=for-the-badge)](https://github.com/radhepa/Meowths-Payday/releases/latest)
 
 [**Download for Windows**](https://github.com/radhepa/Meowths-Payday/releases/latest) · [Game guide](docs/GAMEPLAY.md) · [Build it yourself](DESKTOP.md) · [Report a bug](https://github.com/radhepa/Meowths-Payday/issues)
 
