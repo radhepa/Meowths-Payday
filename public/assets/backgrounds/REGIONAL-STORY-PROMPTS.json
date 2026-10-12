@@ -1,0 +1,66 @@
+[
+  {
+    "region": 2,
+    "name": "Johto",
+    "location": "Bellroot Lantern Grove",
+    "id": "story-region-2-landmark",
+    "prompt": "Generate one original wide 16:9 game background in chunky handheld-era RPG pixel art, matching inspected PMD 40×40 talking portraits and PokeAPI 96×96 body sprites. Effective 320×180 logical pixel grid enlarged with nearest-neighbor blocks, crisp hard pixel clusters, selectively dark contours, only 2–4 flat shade tones per material, modest dithering. No smooth painting, blur, antialiasing, gradients, photorealism, 3D or glossy rendering. Slightly elevated front-facing composition. IMPORTANT: bottom 35% is one broad, level, visibly solid unobstructed path for three dialogue sprites, especially full width x=15%–85% at y=80%–88%. No fences, stairs, rocks, plants, water or holes across that contact line; scenery and steps only in the middle distance; edge foliage only outside x=10%–90%. Horizon near upper third. No characters, creatures, humans, words, signs with text, logos, UI or watermarks. Charming adventurous Pokémon-like exploration mood. Traditional Japanese-inspired wooden bell tower and small tiled shrine among autumn maple trees; low bamboo fences, hanging amber lanterns, a quiet pond behind the path, late afternoon golden light.",
+    "file": "story-region-2-landmark.png"
+  },
+  {
+    "region": 3,
+    "name": "Hoenn",
+    "location": "Skycurrent Launch Quay",
+    "id": "story-region-3-landmark",
+    "prompt": "Generate one original wide 16:9 game background in chunky handheld-era RPG pixel art, matching inspected PMD 40×40 talking portraits and PokeAPI 96×96 body sprites. Effective 320×180 logical pixel grid enlarged with nearest-neighbor blocks, crisp hard pixel clusters, selectively dark contours, only 2–4 flat shade tones per material, modest dithering. No smooth painting, blur, antialiasing, gradients, photorealism, 3D or glossy rendering. Slightly elevated front-facing composition. IMPORTANT: bottom 35% is one broad, level, visibly solid unobstructed path for three dialogue sprites, especially full width x=15%–85% at y=80%–88%. No fences, stairs, rocks, plants, water or holes across that contact line; scenery and steps only in the middle distance; edge foliage only outside x=10%–90%. Horizon near upper third. No characters, creatures, humans, words, signs with text, logos, UI or watermarks. Charming adventurous Pokémon-like exploration mood. Tropical coast launch quay with a wooden wind observatory, distant volcanic island and turquoise sea, little cloud-courier flags, star telescope on a raised deck in the middle distance, bright dawn.",
+    "file": "story-region-3-landmark.png"
+  },
+  {
+    "region": 4,
+    "name": "Sinnoh",
+    "location": "Snowbell Pass",
+    "id": "story-region-4-landmark",
+    "prompt": "Generate one original wide 16:9 game background in chunky handheld-era RPG pixel art, matching inspected PMD 40×40 talking portraits and PokeAPI 96×96 body sprites. Effective 320×180 logical pixel grid enlarged with nearest-neighbor blocks, crisp hard pixel clusters, selectively dark contours, only 2–4 flat shade tones per material, modest dithering. No smooth painting, blur, antialiasing, gradients, photorealism, 3D or glossy rendering. Slightly elevated front-facing composition. IMPORTANT: bottom 35% is one broad, level, visibly solid unobstructed path for three dialogue sprites, especially full width x=15%–85% at y=80%–88%. No fences, stairs, rocks, plants, water or holes across that contact line; scenery and steps only in the middle distance; edge foliage only outside x=10%–90%. Horizon near upper third. No characters, creatures, humans, words, signs with text, logos, UI or watermarks. Charming adventurous Pokémon-like exploration mood. High snowy mountain pass, weathered stone arches and ruins, blue-grey pine forests and distant steep peaks, warm braziers beside a sheltered stone courtyard at twilight. Foreground path is clear grey flagstone with snow only at the outer edges.",
+    "file": "story-region-4-landmark.png"
+  },
+  {
+    "region": 5,
+    "name": "Unova",
+    "location": "Gearbridge Terminal",
+    "id": "story-region-5-landmark",
+    "prompt": "Generate one original wide 16:9 game background in chunky handheld-era RPG pixel art, matching inspected PMD 40×40 talking portraits and PokeAPI 96×96 body sprites. Effective 320×180 logical pixel grid enlarged with nearest-neighbor blocks, crisp hard pixel clusters, selectively dark contours, only 2–4 flat shade tones per material, modest dithering. No smooth painting, blur, antialiasing, gradients, photorealism, 3D or glossy rendering. Slightly elevated front-facing composition. IMPORTANT: bottom 35% is one broad, level, visibly solid unobstructed path for three dialogue sprites, especially full width x=15%–85% at y=80%–88%. No fences, stairs, rocks, plants, water or holes across that contact line; scenery and steps only in the middle distance; edge foliage only outside x=10%–90%. Horizon near upper third. No characters, creatures, humans, words, signs with text, logos, UI or watermarks. Charming adventurous Pokémon-like exploration mood. Brick railway terminal under a grand steel arched bridge, distant city windows, station clock and flower boxes, warm evening lamps, broad empty stone passenger plaza in the foreground.",
+    "file": "story-region-5-landmark.png"
+  },
+  {
+    "region": 6,
+    "name": "Kalos",
+    "location": "Prismgarden Terrace",
+    "id": "story-region-6-landmark",
+    "prompt": "Generate one original wide 16:9 game background in chunky handheld-era RPG pixel art, matching inspected PMD 40×40 talking portraits and PokeAPI 96×96 body sprites. Effective 320×180 logical pixel grid enlarged with nearest-neighbor blocks, crisp hard pixel clusters, selectively dark contours, only 2–4 flat shade tones per material, modest dithering. No smooth painting, blur, antialiasing, gradients, photorealism, 3D or glossy rendering. Slightly elevated front-facing composition. IMPORTANT: bottom 35% is one broad, level, visibly solid unobstructed path for three dialogue sprites, especially full width x=15%–85% at y=80%–88%. No fences, stairs, rocks, plants, water or holes across that contact line; scenery and steps only in the middle distance; edge foliage only outside x=10%–90%. Horizon near upper third. No characters, creatures, humans, words, signs with text, logos, UI or watermarks. Charming adventurous Pokémon-like exploration mood. Elegant French-inspired garden terrace with a crystal-glass conservatory, pastel rose hedges, a distant spire and cream stone balustrades, lantern-lit dusk. Broad clear cream flagstone terrace in the foreground.",
+    "file": "story-region-6-landmark.png"
+  },
+  {
+    "region": 7,
+    "name": "Alola",
+    "location": "Moonpetal Cove",
+    "id": "story-region-7-landmark",
+    "prompt": "Generate one original wide 16:9 game background in chunky handheld-era RPG pixel art, matching inspected PMD 40×40 talking portraits and PokeAPI 96×96 body sprites. Effective 320×180 logical pixel grid enlarged with nearest-neighbor blocks, crisp hard pixel clusters, selectively dark contours, only 2–4 flat shade tones per material, modest dithering. No smooth painting, blur, antialiasing, gradients, photorealism, 3D or glossy rendering. Slightly elevated front-facing composition. IMPORTANT: bottom 35% is one broad, level, visibly solid unobstructed path for three dialogue sprites, especially full width x=15%–85% at y=80%–88%. No fences, stairs, rocks, plants, water or holes across that contact line; scenery and steps only in the middle distance; edge foliage only outside x=10%–90%. Horizon near upper third. No characters, creatures, humans, words, signs with text, logos, UI or watermarks. Charming adventurous Pokémon-like exploration mood. Moonlit tropical cove, swaying palms at edges, basalt ceremonial arch in the middle distance, handmade lanterns, dark violet volcanic ridge across the water, bright stars. Broad flat pale sand path in foreground, water entirely behind it.",
+    "file": "story-region-7-landmark.png"
+  },
+  {
+    "region": 8,
+    "name": "Galar",
+    "location": "Copperwhistle Station",
+    "id": "story-region-8-landmark",
+    "prompt": "Generate one original wide 16:9 game background in chunky handheld-era RPG pixel art, matching inspected PMD 40×40 talking portraits and PokeAPI 96×96 body sprites. Effective 320×180 logical pixel grid enlarged with nearest-neighbor blocks, crisp hard pixel clusters, selectively dark contours, only 2–4 flat shade tones per material, modest dithering. No smooth painting, blur, antialiasing, gradients, photorealism, 3D or glossy rendering. Slightly elevated front-facing composition. IMPORTANT: bottom 35% is one broad, level, visibly solid unobstructed path for three dialogue sprites, especially full width x=15%–85% at y=80%–88%. No fences, stairs, rocks, plants, water or holes across that contact line; scenery and steps only in the middle distance; edge foliage only outside x=10%–90%. Horizon near upper third. No characters, creatures, humans, words, signs with text, logos, UI or watermarks. Charming adventurous Pokémon-like exploration mood. Cozy red-brick railway station with a clock tower, ivy, copper pipes, distant rolling green hills and an iron rail bridge, warm windows at sunset. Broad flat cobblestone station forecourt, no tracks through foreground.",
+    "file": "story-region-8-landmark.png"
+  },
+  {
+    "region": 9,
+    "name": "Paldea",
+    "location": "Starlight Academy Terrace",
+    "id": "story-region-9-landmark",
+    "prompt": "Generate one original wide 16:9 game background in chunky handheld-era RPG pixel art, matching inspected PMD 40×40 talking portraits and PokeAPI 96×96 body sprites. Effective 320×180 logical pixel grid enlarged with nearest-neighbor blocks, crisp hard pixel clusters, selectively dark contours, only 2–4 flat shade tones per material, modest dithering. No smooth painting, blur, antialiasing, gradients, photorealism, 3D or glossy rendering. Slightly elevated front-facing composition. IMPORTANT: bottom 35% is one broad, level, visibly solid unobstructed path for three dialogue sprites, especially full width x=15%–85% at y=80%–88%. No fences, stairs, rocks, plants, water or holes across that contact line; scenery and steps only in the middle distance; edge foliage only outside x=10%–90%. Horizon near upper third. No characters, creatures, humans, words, signs with text, logos, UI or watermarks. Charming adventurous Pokémon-like exploration mood. Mediterranean hilltop academy courtyard with terracotta rooftops, patterned tiles, a violet crystal pavilion, orange trees at far edges and a distant sunlit coast. Wide flat ochre and cream tile terrace in the foreground; all steps behind it.",
+    "file": "story-region-9-landmark.png"
+  }
+]

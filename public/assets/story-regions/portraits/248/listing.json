@@ -1,0 +1,102 @@
+{
+  "url": "https://github.com/PMDCollab/SpriteCollab/tree/master/portrait/0248/",
+  "commit": "c0c8b1346f2ce397ad0f997fb485d794cca2a7b2",
+  "entries": [
+    {
+      "name": "0000/0001",
+      "path": "portrait/0248/0000/0001",
+      "contentType": "directory",
+      "hasSimplifiedPath": true
+    },
+    {
+      "name": "0001",
+      "path": "portrait/0248/0001",
+      "contentType": "directory"
+    },
+    {
+      "name": "Angry.png",
+      "path": "portrait/0248/Angry.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Crying.png",
+      "path": "portrait/0248/Crying.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Determined.png",
+      "path": "portrait/0248/Determined.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Dizzy.png",
+      "path": "portrait/0248/Dizzy.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Happy.png",
+      "path": "portrait/0248/Happy.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Inspired.png",
+      "path": "portrait/0248/Inspired.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Joyous.png",
+      "path": "portrait/0248/Joyous.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Normal.png",
+      "path": "portrait/0248/Normal.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Pain.png",
+      "path": "portrait/0248/Pain.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Sad.png",
+      "path": "portrait/0248/Sad.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Shouting.png",
+      "path": "portrait/0248/Shouting.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Sigh.png",
+      "path": "portrait/0248/Sigh.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Stunned.png",
+      "path": "portrait/0248/Stunned.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Surprised.png",
+      "path": "portrait/0248/Surprised.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Teary-Eyed.png",
+      "path": "portrait/0248/Teary-Eyed.png",
+      "contentType": "file"
+    },
+    {
+      "name": "Worried.png",
+      "path": "portrait/0248/Worried.png",
+      "contentType": "file"
+    },
+    {
+      "name": "credits.txt",
+      "path": "portrait/0248/credits.txt",
+      "contentType": "file"
+    }
+  ]
+}

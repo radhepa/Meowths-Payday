@@ -1,0 +1,336 @@
+[
+  {
+    "id": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "sprite": "/assets/pokemon/25.png",
+    "animated": "/assets/pokemon/25.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/25/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
+  },
+  {
+    "id": 133,
+    "name": "eevee",
+    "types": [
+      "normal"
+    ],
+    "sprite": "/assets/pokemon/133.png",
+    "animated": "/assets/pokemon/133.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/133/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif"
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "types": [
+      "water"
+    ],
+    "sprite": "/assets/pokemon/7.png",
+    "animated": "/assets/pokemon/7.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/7/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif"
+  },
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "sprite": "/assets/pokemon/1.png",
+    "animated": "/assets/pokemon/1.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/1/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif"
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "types": [
+      "fire"
+    ],
+    "sprite": "/assets/pokemon/4.png",
+    "animated": "/assets/pokemon/4.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/4/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif"
+  },
+  {
+    "id": 39,
+    "name": "jigglypuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "sprite": "/assets/pokemon/39.png",
+    "animated": "/assets/pokemon/39.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/39/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif"
+  },
+  {
+    "id": 54,
+    "name": "psyduck",
+    "types": [
+      "water"
+    ],
+    "sprite": "/assets/pokemon/54.png",
+    "animated": "/assets/pokemon/54.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/54/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif"
+  },
+  {
+    "id": 143,
+    "name": "snorlax",
+    "types": [
+      "normal"
+    ],
+    "sprite": "/assets/pokemon/143.png",
+    "animated": "/assets/pokemon/143.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/143/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif"
+  },
+  {
+    "id": 175,
+    "name": "togepi",
+    "types": [
+      "fairy"
+    ],
+    "sprite": "/assets/pokemon/175.png",
+    "animated": "/assets/pokemon/175.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/175/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif"
+  },
+  {
+    "id": 152,
+    "name": "chikorita",
+    "types": [
+      "grass"
+    ],
+    "sprite": "/assets/pokemon/152.png",
+    "animated": "/assets/pokemon/152.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/152/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/152.gif"
+  },
+  {
+    "id": 213,
+    "name": "shuckle",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "sprite": "/assets/pokemon/213.png",
+    "animated": "/assets/pokemon/213.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/213/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/213.gif"
+  },
+  {
+    "id": 94,
+    "name": "gengar",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "sprite": "/assets/pokemon/94.png",
+    "animated": "/assets/pokemon/94.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/94/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"
+  },
+  {
+    "id": 65,
+    "name": "alakazam",
+    "types": [
+      "psychic"
+    ],
+    "sprite": "/assets/pokemon/65.png",
+    "animated": "/assets/pokemon/65.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/65/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif"
+  },
+  {
+    "id": 376,
+    "name": "metagross",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "sprite": "/assets/pokemon/376.png",
+    "animated": "/assets/pokemon/376.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/376/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif"
+  },
+  {
+    "id": 53,
+    "name": "persian",
+    "types": [
+      "normal"
+    ],
+    "sprite": "/assets/pokemon/53.png",
+    "animated": "/assets/pokemon/53.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/53/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/53.gif"
+  },
+  {
+    "id": 12,
+    "name": "butterfree",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "sprite": "/assets/pokemon/12.png",
+    "animated": "/assets/pokemon/12.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/12/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif"
+  },
+  {
+    "id": 129,
+    "name": "magikarp",
+    "types": [
+      "water"
+    ],
+    "sprite": "/assets/pokemon/129.png",
+    "animated": "/assets/pokemon/129.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/129/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif"
+  },
+  {
+    "id": 180,
+    "name": "flaaffy",
+    "types": [
+      "electric"
+    ],
+    "sprite": "/assets/pokemon/180.png",
+    "animated": "/assets/pokemon/180.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/180/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/180.gif"
+  },
+  {
+    "id": 241,
+    "name": "miltank",
+    "types": [
+      "normal"
+    ],
+    "sprite": "/assets/pokemon/241.png",
+    "animated": "/assets/pokemon/241.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/241/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/241.gif"
+  },
+  {
+    "id": 131,
+    "name": "lapras",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "sprite": "/assets/pokemon/131.png",
+    "animated": "/assets/pokemon/131.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/131/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif"
+  },
+  {
+    "id": 149,
+    "name": "dragonite",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "sprite": "/assets/pokemon/149.png",
+    "animated": "/assets/pokemon/149.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/149/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif"
+  },
+  {
+    "id": 113,
+    "name": "chansey",
+    "types": [
+      "normal"
+    ],
+    "sprite": "/assets/pokemon/113.png",
+    "animated": "/assets/pokemon/113.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/113/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif"
+  },
+  {
+    "id": 132,
+    "name": "ditto",
+    "types": [
+      "normal"
+    ],
+    "sprite": "/assets/pokemon/132.png",
+    "animated": "/assets/pokemon/132.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/132/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif"
+  },
+  {
+    "id": 248,
+    "name": "tyranitar",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "sprite": "/assets/pokemon/248.png",
+    "animated": "/assets/pokemon/248.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/248/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif"
+  },
+  {
+    "id": 181,
+    "name": "ampharos",
+    "types": [
+      "electric"
+    ],
+    "sprite": "/assets/pokemon/181.png",
+    "animated": "/assets/pokemon/181.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/181/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/181.gif"
+  },
+  {
+    "id": 233,
+    "name": "porygon2",
+    "types": [
+      "normal"
+    ],
+    "sprite": "/assets/pokemon/233.png",
+    "animated": "/assets/pokemon/233.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/233/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/233.gif"
+  },
+  {
+    "id": 384,
+    "name": "rayquaza",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "sprite": "/assets/pokemon/384.png",
+    "animated": "/assets/pokemon/384.gif",
+    "source": "https://pokeapi.co/api/v2/pokemon/384/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+    "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif"
+  }
+]

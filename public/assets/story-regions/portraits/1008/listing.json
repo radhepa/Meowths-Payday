@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/PMDCollab/SpriteCollab/tree/master/portrait/1008/",
+  "commit": "c0c8b1346f2ce397ad0f997fb485d794cca2a7b2",
+  "entries": [
+    {
+      "name": "0000/0001",
+      "path": "portrait/1008/0000/0001",
+      "contentType": "directory",
+      "hasSimplifiedPath": true
+    },
+    {
+      "name": "0001",
+      "path": "portrait/1008/0001",
+      "contentType": "directory"
+    },
+    {
+      "name": "Normal.png",
+      "path": "portrait/1008/Normal.png",
+      "contentType": "file"
+    },
+    {
+      "name": "credits.txt",
+      "path": "portrait/1008/credits.txt",
+      "contentType": "file"
+    }
+  ]
+}

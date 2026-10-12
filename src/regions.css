@@ -1,0 +1,305 @@
+.region-banner {
+  position: relative;
+  margin: 0 24px 22px;
+  height: 170px;
+  isolation: isolate;
+  overflow: hidden;
+  border-radius: 13px;
+  border: 1px solid #ffffff18;
+  background: #243c3c;
+}
+.region-banner > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  image-rendering: pixelated;
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+}
+.region-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, #081318ed, #08131869 55%, #0813180a);
+  z-index: -1;
+}
+.region-banner-copy {
+  padding: 25px 24px;
+  color: #faf3dd;
+}
+.region-banner-copy h2 {
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 1.1;
+  margin: 7px 0;
+}
+.region-banner-copy p {
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+.region-banner-copy > span:last-child {
+  font-size: 10px;
+  color: #e7dbb9;
+}
+.region-banner .eyebrow {
+  color: var(--region-color);
+}
+.region-map-link {
+  position: absolute;
+  right: 14px;
+  bottom: 14px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  padding: 9px 12px;
+  border-radius: 8px;
+  background: #101a21db;
+  border: 1px solid #ffffff26;
+  color: #ffe18a;
+  font-size: 11px;
+}
+.regions-panel {
+  padding: 0 24px 25px;
+}
+.travel-plan {
+  background: #192124;
+  border: 1px solid #ffde0024;
+  border-radius: 13px;
+  padding: 23px;
+  margin-bottom: 22px;
+}
+.travel-plan h2 {
+  font-size: 25px;
+  font-weight: 800;
+  margin: 7px 0 10px;
+}
+.travel-plan > p {
+  font-size: 12px;
+  color: #aab6b9;
+  line-height: 1.7;
+  max-width: 620px;
+}
+.travel-requirements {
+  display: grid;
+  gap: 14px;
+  margin: 20px 0;
+}
+.travel-requirement {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  font-size: 11px;
+  color: #d5dedc;
+}
+.travel-requirement > div {
+  flex: 1;
+}
+.travel-requirement strong {
+  font-size: 11px;
+  white-space: nowrap;
+}
+.travel-requirement .simple-track {
+  height: 4px;
+  margin-top: 7px;
+  max-width: 340px;
+}
+.travel-story-link {
+  color: #e9d381;
+  font-size: 11px;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  margin-top: 12px;
+}
+.travel-button:disabled {
+  opacity: 0.38;
+  cursor: not-allowed;
+}
+.region-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+.region-card {
+  border: 1px solid #ffffff13;
+  border-radius: 11px;
+  overflow: hidden;
+  background: #171e22;
+}
+.region-card.current {
+  border-color: #ffde006b;
+}
+.region-card-image {
+  position: relative;
+  height: 116px;
+  background: #253d3c;
+}
+.region-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  image-rendering: pixelated;
+}
+.region-card.locked .region-card-image img {
+  filter: saturate(0.6);
+  opacity: 0.7;
+}
+.region-card-image > span {
+  position: absolute;
+  bottom: 8px;
+  left: 10px;
+  font-size: 9px;
+  letter-spacing: 1px;
+  background: #0d1729d9;
+  padding: 4px 7px;
+  border-radius: 4px;
+  color: #ffdf88;
+}
+.region-card-copy {
+  padding: 13px;
+}
+.region-card-copy h3 {
+  font-size: 16px;
+  font-weight: 700;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.region-card-copy h3 span {
+  color: #ffde00;
+  font-size: 7px;
+  letter-spacing: 0.5px;
+}
+.region-card-copy p {
+  font-size: 10px;
+  line-height: 1.6;
+  color: #a7b3b4;
+  min-height: 33px;
+  margin: 5px 0;
+}
+.region-card-copy > span {
+  font-size: 9px;
+  color: #7e9399;
+}
+.region-card-copy button {
+  width: 100%;
+  margin-top: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-size: 10px;
+  padding: 9px 5px;
+  min-height: 34px;
+}
+.region-current {
+  color: #ecdc83;
+  background: #ffde0011;
+  border-radius: 7px;
+}
+.kanto-archive {
+  margin: 0 24px 24px;
+  padding: 28px;
+  background: #192124;
+  border-radius: 12px;
+}
+.kanto-archive h2 {
+  font-size: 22px;
+  font-weight: 700;
+}
+.kanto-archive p {
+  font-size: 13px;
+  color: #acb8b9;
+  margin: 10px 0 20px;
+}
+.story-landscape {
+  object-fit: cover;
+  image-rendering: pixelated;
+}
+.customer-scene {
+  background-image:
+    linear-gradient(#0e182662, #0e182631), var(--region-background) !important;
+  background-size: cover;
+  background-position: center;
+  image-rendering: pixelated;
+}
+@media (max-width: 1000px) {
+  .region-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 550px) {
+  .region-banner {
+    margin: 0 14px 17px;
+    height: 156px;
+  }
+  .region-banner-copy {
+    padding: 20px 15px;
+  }
+  .region-banner-copy h2 {
+    font-size: 27px;
+  }
+  .region-banner-copy p {
+    max-width: 210px;
+    font-size: 11px;
+  }
+  .region-map-link {
+    right: 10px;
+    bottom: 10px;
+    padding: 7px 8px;
+    font-size: 9px;
+  }
+  .regions-panel {
+    padding: 0 14px 18px;
+  }
+  .travel-plan {
+    padding: 18px;
+  }
+  .travel-plan h2 {
+    font-size: 23px;
+  }
+  .travel-requirement {
+    font-size: 10px;
+    gap: 7px;
+    flex-wrap: wrap;
+  }
+  .travel-requirement strong {
+    font-size: 10px;
+  }
+  .region-grid {
+    gap: 10px;
+  }
+  .region-card-image {
+    height: 98px;
+  }
+  .region-card-copy {
+    padding: 10px;
+  }
+  .region-card-copy h3 {
+    font-size: 14px;
+  }
+  .region-card-copy p {
+    min-height: 46px;
+  }
+  .kanto-archive {
+    margin: 0 14px 18px;
+    padding: 20px;
+  }
+}
+
+.customer-scene::before {
+  display: none;
+}
+.tab-bar {
+  scrollbar-width: none;
+}
+.tab-bar::-webkit-scrollbar {
+  display: none;
+}
+.market-scene-heading {
+  background: #0c192cc9;
+  border-radius: 6px;
+  padding: 5px 7px;
+}

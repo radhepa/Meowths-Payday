@@ -1,0 +1,3746 @@
+{
+  "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+  "pokemon": [
+    {
+      "id": 53,
+      "name": "persian",
+      "generation": 1,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/pokemon/53.png",
+      "animated": "/assets/pokemon/53.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/53/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/53.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/53/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 71,
+      "name": "victreebel",
+      "generation": 1,
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "sprite": "/assets/regions/pokemon/71.png",
+      "animated": "/assets/regions/pokemon/71.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/71/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/71.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/71.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/71/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 94,
+      "name": "gengar",
+      "generation": 1,
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "sprite": "/assets/pokemon/94.png",
+      "animated": "/assets/pokemon/94.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/94/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/94/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 65,
+      "name": "alakazam",
+      "generation": 1,
+      "types": [
+        "psychic"
+      ],
+      "sprite": "/assets/pokemon/65.png",
+      "animated": "/assets/pokemon/65.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/65/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/65/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 68,
+      "name": "machamp",
+      "generation": 1,
+      "types": [
+        "fighting"
+      ],
+      "sprite": "/assets/regions/pokemon/68.png",
+      "animated": "/assets/regions/pokemon/68.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/68/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/68.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/68/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 12,
+      "name": "butterfree",
+      "generation": 1,
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "sprite": "/assets/pokemon/12.png",
+      "animated": "/assets/pokemon/12.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/12/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/12/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 129,
+      "name": "magikarp",
+      "generation": 1,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/pokemon/129.png",
+      "animated": "/assets/pokemon/129.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/129/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/129/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "generation": 1,
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "sprite": "/assets/pokemon/39.png",
+      "animated": "/assets/pokemon/39.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/39/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/39/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 125,
+      "name": "electabuzz",
+      "generation": 1,
+      "types": [
+        "electric"
+      ],
+      "sprite": "/assets/regions/pokemon/125.png",
+      "animated": "/assets/regions/pokemon/125.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/125/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/125.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/125.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/125/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "generation": 1,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/regions/pokemon/115.png",
+      "animated": "/assets/regions/pokemon/115.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/115/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/115.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/115.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/115/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 133,
+      "name": "eevee",
+      "generation": 1,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/pokemon/133.png",
+      "animated": "/assets/pokemon/133.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/133/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/133/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 131,
+      "name": "lapras",
+      "generation": 1,
+      "types": [
+        "water",
+        "ice"
+      ],
+      "sprite": "/assets/pokemon/131.png",
+      "animated": "/assets/pokemon/131.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/131/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/131/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 149,
+      "name": "dragonite",
+      "generation": 1,
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "sprite": "/assets/pokemon/149.png",
+      "animated": "/assets/pokemon/149.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/149/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/149/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 113,
+      "name": "chansey",
+      "generation": 1,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/pokemon/113.png",
+      "animated": "/assets/pokemon/113.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/113/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/113/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 132,
+      "name": "ditto",
+      "generation": 1,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/pokemon/132.png",
+      "animated": "/assets/pokemon/132.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/132/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/132/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 143,
+      "name": "snorlax",
+      "generation": 1,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/pokemon/143.png",
+      "animated": "/assets/pokemon/143.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/143/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/143/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 112,
+      "name": "rhydon",
+      "generation": 1,
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "sprite": "/assets/regions/pokemon/112.png",
+      "animated": "/assets/regions/pokemon/112.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/112/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/112.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/112/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 26,
+      "name": "raichu",
+      "generation": 1,
+      "types": [
+        "electric"
+      ],
+      "sprite": "/assets/regions/pokemon/26.png",
+      "animated": "/assets/regions/pokemon/26.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/26/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/26.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/26/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 137,
+      "name": "porygon",
+      "generation": 1,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/regions/pokemon/137.png",
+      "animated": "/assets/regions/pokemon/137.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/137/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/137.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/137/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 148,
+      "name": "dragonair",
+      "generation": 1,
+      "types": [
+        "dragon"
+      ],
+      "sprite": "/assets/regions/pokemon/148.png",
+      "animated": "/assets/regions/pokemon/148.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/148/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/148.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/148/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 52,
+      "name": "meowth",
+      "generation": 1,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/story/pokemon/52.png",
+      "animated": "/assets/regions/pokemon/52.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/52/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/52.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/52/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 79,
+      "name": "slowpoke",
+      "generation": 1,
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "sprite": "/assets/story/pokemon/79.png",
+      "animated": "/assets/regions/pokemon/79.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/79/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/79.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/79/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 25,
+      "name": "pikachu",
+      "generation": 1,
+      "types": [
+        "electric"
+      ],
+      "sprite": "/assets/pokemon/25.png",
+      "animated": "/assets/pokemon/25.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/25/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/25/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 35,
+      "name": "clefairy",
+      "generation": 1,
+      "types": [
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/35.png",
+      "animated": "/assets/regions/pokemon/35.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/35/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/35.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/35.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/35/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 36,
+      "name": "clefable",
+      "generation": 1,
+      "types": [
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/36.png",
+      "animated": "/assets/regions/pokemon/36.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/36/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/36.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/36.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/36/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/1/"
+    },
+    {
+      "id": 152,
+      "name": "chikorita",
+      "generation": 2,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/pokemon/152.png",
+      "animated": "/assets/pokemon/152.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/152/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/152.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/152/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 155,
+      "name": "cyndaquil",
+      "generation": 2,
+      "types": [
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/155.png",
+      "animated": "/assets/regions/pokemon/155.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/155/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/155.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/155.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/155/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 158,
+      "name": "totodile",
+      "generation": 2,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/158.png",
+      "animated": "/assets/regions/pokemon/158.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/158/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/158.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/158.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/158/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 213,
+      "name": "shuckle",
+      "generation": 2,
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "sprite": "/assets/pokemon/213.png",
+      "animated": "/assets/pokemon/213.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/213/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/213.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/213/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 180,
+      "name": "flaaffy",
+      "generation": 2,
+      "types": [
+        "electric"
+      ],
+      "sprite": "/assets/pokemon/180.png",
+      "animated": "/assets/pokemon/180.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/180/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/180.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/180/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 241,
+      "name": "miltank",
+      "generation": 2,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/pokemon/241.png",
+      "animated": "/assets/pokemon/241.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/241/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/241.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/241/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 214,
+      "name": "heracross",
+      "generation": 2,
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "sprite": "/assets/regions/pokemon/214.png",
+      "animated": "/assets/regions/pokemon/214.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/214/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/214.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/214.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/214/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 248,
+      "name": "tyranitar",
+      "generation": 2,
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "sprite": "/assets/pokemon/248.png",
+      "animated": "/assets/pokemon/248.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/248/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/248/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 181,
+      "name": "ampharos",
+      "generation": 2,
+      "types": [
+        "electric"
+      ],
+      "sprite": "/assets/pokemon/181.png",
+      "animated": "/assets/pokemon/181.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/181/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/181.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/181/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 233,
+      "name": "porygon2",
+      "generation": 2,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/pokemon/233.png",
+      "animated": "/assets/pokemon/233.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/233/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/233.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/233/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/2/"
+    },
+    {
+      "id": 252,
+      "name": "treecko",
+      "generation": 3,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/252.png",
+      "animated": "/assets/regions/pokemon/252.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/252/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/252.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/252/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 255,
+      "name": "torchic",
+      "generation": 3,
+      "types": [
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/255.png",
+      "animated": "/assets/regions/pokemon/255.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/255/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/255.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/255/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 258,
+      "name": "mudkip",
+      "generation": 3,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/258.png",
+      "animated": "/assets/regions/pokemon/258.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/258/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/258.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/258/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "generation": 3,
+      "types": [
+        "water",
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/272.png",
+      "animated": "/assets/regions/pokemon/272.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/272/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/272.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/272.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/272/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 302,
+      "name": "sableye",
+      "generation": 3,
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "sprite": "/assets/story/pokemon/302.png",
+      "animated": "/assets/regions/pokemon/302.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/302/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/302.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/302.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/302/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 334,
+      "name": "altaria",
+      "generation": 3,
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "sprite": "/assets/regions/pokemon/334.png",
+      "animated": "/assets/regions/pokemon/334.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/334/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/334.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/334.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/334/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 359,
+      "name": "absol",
+      "generation": 3,
+      "types": [
+        "dark"
+      ],
+      "sprite": "/assets/regions/pokemon/359.png",
+      "animated": "/assets/regions/pokemon/359.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/359/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/359.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/359.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/359/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 376,
+      "name": "metagross",
+      "generation": 3,
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "sprite": "/assets/pokemon/376.png",
+      "animated": "/assets/pokemon/376.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/376/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/376/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 385,
+      "name": "jirachi",
+      "generation": 3,
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "sprite": "/assets/story/pokemon/385.png",
+      "animated": "/assets/regions/pokemon/385.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/385/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/385.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/385.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/385/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 384,
+      "name": "rayquaza",
+      "generation": 3,
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "sprite": "/assets/pokemon/384.png",
+      "animated": "/assets/pokemon/384.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/384/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/384/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/3/"
+    },
+    {
+      "id": 387,
+      "name": "turtwig",
+      "generation": 4,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/387.png",
+      "animated": "/assets/regions/pokemon/387.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/387/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/387.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/387.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/387/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 390,
+      "name": "chimchar",
+      "generation": 4,
+      "types": [
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/390.png",
+      "animated": "/assets/regions/pokemon/390.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/390/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/390.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/390.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/390/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 393,
+      "name": "piplup",
+      "generation": 4,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/393.png",
+      "animated": "/assets/regions/pokemon/393.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/393/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/393.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/393.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/393/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 417,
+      "name": "pachirisu",
+      "generation": 4,
+      "types": [
+        "electric"
+      ],
+      "sprite": "/assets/regions/pokemon/417.png",
+      "animated": "/assets/regions/pokemon/417.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/417/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/417.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/417.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/417/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 418,
+      "name": "buizel",
+      "generation": 4,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/418.png",
+      "animated": "/assets/regions/pokemon/418.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/418/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/418.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/418.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/418/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 407,
+      "name": "roserade",
+      "generation": 4,
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "sprite": "/assets/regions/pokemon/407.png",
+      "animated": "/assets/regions/pokemon/407.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/407/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/407.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/407.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/407/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 448,
+      "name": "lucario",
+      "generation": 4,
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "sprite": "/assets/regions/pokemon/448.png",
+      "animated": "/assets/regions/pokemon/448.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/448/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/448.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/448/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 479,
+      "name": "rotom",
+      "generation": 4,
+      "types": [
+        "electric",
+        "ghost"
+      ],
+      "sprite": "/assets/regions/pokemon/479.png",
+      "animated": "/assets/regions/pokemon/479.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/479/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/479.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/479/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 395,
+      "name": "empoleon",
+      "generation": 4,
+      "types": [
+        "water",
+        "steel"
+      ],
+      "sprite": "/assets/regions/pokemon/395.png",
+      "animated": "/assets/regions/pokemon/395.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/395/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/395.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/395.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/395/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 445,
+      "name": "garchomp",
+      "generation": 4,
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "sprite": "/assets/regions/pokemon/445.png",
+      "animated": "/assets/regions/pokemon/445.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/445/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/445.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/445/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/4/"
+    },
+    {
+      "id": 495,
+      "name": "snivy",
+      "generation": 5,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/495.png",
+      "animated": "/assets/regions/pokemon/495.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/495/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/495.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/495.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/495/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 498,
+      "name": "tepig",
+      "generation": 5,
+      "types": [
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/498.png",
+      "animated": "/assets/regions/pokemon/498.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/498/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/498.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/498.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/498/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 501,
+      "name": "oshawott",
+      "generation": 5,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/501.png",
+      "animated": "/assets/regions/pokemon/501.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/501/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/501.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/501.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/501/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 531,
+      "name": "audino",
+      "generation": 5,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/regions/pokemon/531.png",
+      "animated": "/assets/regions/pokemon/531.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/531/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/531.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/531.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/531/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 547,
+      "name": "whimsicott",
+      "generation": 5,
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/547.png",
+      "animated": "/assets/regions/pokemon/547.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/547/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/547.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/547.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/547/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 568,
+      "name": "trubbish",
+      "generation": 5,
+      "types": [
+        "poison"
+      ],
+      "sprite": "/assets/regions/pokemon/568.png",
+      "animated": "/assets/regions/pokemon/568.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/568/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/568.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/568.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/568/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 595,
+      "name": "joltik",
+      "generation": 5,
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "sprite": "/assets/regions/pokemon/595.png",
+      "animated": "/assets/regions/pokemon/595.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/595/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/595.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/595.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/595/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 609,
+      "name": "chandelure",
+      "generation": 5,
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/609.png",
+      "animated": "/assets/regions/pokemon/609.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/609/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/609.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/609.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/609/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 623,
+      "name": "golurk",
+      "generation": 5,
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "sprite": "/assets/regions/pokemon/623.png",
+      "animated": "/assets/regions/pokemon/623.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/623/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/623.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/623.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/623/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 628,
+      "name": "braviary",
+      "generation": 5,
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "sprite": "/assets/regions/pokemon/628.png",
+      "animated": "/assets/regions/pokemon/628.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/628/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/628.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/628.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/628/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    {
+      "id": 650,
+      "name": "chespin",
+      "generation": 6,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/650.png",
+      "animated": "/assets/regions/pokemon/650.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/650/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/650.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/650/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 653,
+      "name": "fennekin",
+      "generation": 6,
+      "types": [
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/653.png",
+      "animated": "/assets/regions/pokemon/653.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/653/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/653.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/653.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/653/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 656,
+      "name": "froakie",
+      "generation": 6,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/656.png",
+      "animated": "/assets/regions/pokemon/656.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/656/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/656.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/656.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/656/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 672,
+      "name": "skiddo",
+      "generation": 6,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/672.png",
+      "animated": "/assets/regions/pokemon/672.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/672/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/672.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/672.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/672/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 676,
+      "name": "furfrou",
+      "generation": 6,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/regions/pokemon/676.png",
+      "animated": "/assets/regions/pokemon/676.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/676/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/676.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/676/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 700,
+      "name": "sylveon",
+      "generation": 6,
+      "types": [
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/700.png",
+      "animated": "/assets/regions/pokemon/700.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/700/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/700.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/700.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/700/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 701,
+      "name": "hawlucha",
+      "generation": 6,
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "sprite": "/assets/regions/pokemon/701.png",
+      "animated": "/assets/regions/pokemon/701.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/701/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/701.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/701/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 703,
+      "name": "carbink",
+      "generation": 6,
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/703.png",
+      "animated": "/assets/regions/pokemon/703.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/703/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/703.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/703.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/703/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 706,
+      "name": "goodra",
+      "generation": 6,
+      "types": [
+        "dragon"
+      ],
+      "sprite": "/assets/regions/pokemon/706.png",
+      "animated": "/assets/regions/pokemon/706.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/706/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/706.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/706.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/706/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 707,
+      "name": "klefki",
+      "generation": 6,
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/707.png",
+      "animated": "/assets/regions/pokemon/707.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/707/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/707.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/707.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/707/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/6/"
+    },
+    {
+      "id": 722,
+      "name": "rowlet",
+      "generation": 7,
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "sprite": "/assets/regions/pokemon/722.png",
+      "animated": "/assets/regions/pokemon/722.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/722/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/722.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/722.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/722/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 725,
+      "name": "litten",
+      "generation": 7,
+      "types": [
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/725.png",
+      "animated": "/assets/regions/pokemon/725.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/725/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/725.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/725.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/725/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 728,
+      "name": "popplio",
+      "generation": 7,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/728.png",
+      "animated": "/assets/regions/pokemon/728.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/728/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/728.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/728.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/728/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 741,
+      "name": "oricorio-baile",
+      "generation": 7,
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "sprite": "/assets/regions/pokemon/741.png",
+      "animated": "/assets/regions/pokemon/741.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/741/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/741.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/741/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 749,
+      "name": "mudbray",
+      "generation": 7,
+      "types": [
+        "ground"
+      ],
+      "sprite": "/assets/regions/pokemon/749.png",
+      "animated": "/assets/regions/pokemon/749.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/749/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/749.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/749.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/749/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 757,
+      "name": "salandit",
+      "generation": 7,
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/757.png",
+      "animated": "/assets/regions/pokemon/757.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/757/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/757.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/757/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 761,
+      "name": "bounsweet",
+      "generation": 7,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/761.png",
+      "animated": "/assets/regions/pokemon/761.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/761/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/761.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/761.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/761/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 765,
+      "name": "oranguru",
+      "generation": 7,
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "sprite": "/assets/regions/pokemon/765.png",
+      "animated": "/assets/regions/pokemon/765.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/765/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/765.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/765/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 778,
+      "name": "mimikyu-disguised",
+      "generation": 7,
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/778.png",
+      "animated": "/assets/regions/pokemon/778.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/778/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/778.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/778.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/778/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 784,
+      "name": "kommo-o",
+      "generation": 7,
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "sprite": "/assets/regions/pokemon/784.png",
+      "animated": "/assets/regions/pokemon/784.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/784/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/784.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/784.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/784/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/7/"
+    },
+    {
+      "id": 810,
+      "name": "grookey",
+      "generation": 8,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/810.png",
+      "animated": "/assets/regions/pokemon/810.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/810/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/810.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/810.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/810/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 813,
+      "name": "scorbunny",
+      "generation": 8,
+      "types": [
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/813.png",
+      "animated": "/assets/regions/pokemon/813.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/813/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/813.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/813.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/813/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 816,
+      "name": "sobble",
+      "generation": 8,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/816.png",
+      "animated": "/assets/regions/pokemon/816.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/816/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/816.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/816.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/816/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 831,
+      "name": "wooloo",
+      "generation": 8,
+      "types": [
+        "normal"
+      ],
+      "sprite": "/assets/regions/pokemon/831.png",
+      "animated": "/assets/regions/pokemon/831.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/831/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/831.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/831.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/831/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 835,
+      "name": "yamper",
+      "generation": 8,
+      "types": [
+        "electric"
+      ],
+      "sprite": "/assets/regions/pokemon/835.png",
+      "animated": "/assets/regions/pokemon/835.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/835/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/835.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/835.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/835/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 845,
+      "name": "cramorant",
+      "generation": 8,
+      "types": [
+        "flying",
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/845.png",
+      "animated": "/assets/regions/pokemon/845.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/845/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/845.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/845.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/845/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 849,
+      "name": "toxtricity-amped",
+      "generation": 8,
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "sprite": "/assets/regions/pokemon/849.png",
+      "animated": "/assets/regions/pokemon/849.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/849/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/849.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/849.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/849/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 869,
+      "name": "alcremie",
+      "generation": 8,
+      "types": [
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/869.png",
+      "animated": "/assets/regions/pokemon/869.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/869/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/869.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/869.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/869/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 823,
+      "name": "corviknight",
+      "generation": 8,
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "sprite": "/assets/regions/pokemon/823.png",
+      "animated": "/assets/regions/pokemon/823.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/823/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/823.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/823.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/823/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 887,
+      "name": "dragapult",
+      "generation": 8,
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "sprite": "/assets/regions/pokemon/887.png",
+      "animated": "/assets/regions/pokemon/887.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/887/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/887.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/887.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/887/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/8/"
+    },
+    {
+      "id": 906,
+      "name": "sprigatito",
+      "generation": 9,
+      "types": [
+        "grass"
+      ],
+      "sprite": "/assets/regions/pokemon/906.png",
+      "animated": "/assets/regions/pokemon/906.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/906/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/906.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/906/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 909,
+      "name": "fuecoco",
+      "generation": 9,
+      "types": [
+        "fire"
+      ],
+      "sprite": "/assets/regions/pokemon/909.png",
+      "animated": "/assets/regions/pokemon/909.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/909/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/909.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/909/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 912,
+      "name": "quaxly",
+      "generation": 9,
+      "types": [
+        "water"
+      ],
+      "sprite": "/assets/regions/pokemon/912.png",
+      "animated": "/assets/regions/pokemon/912.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/912/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/912.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/912/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 921,
+      "name": "pawmi",
+      "generation": 9,
+      "types": [
+        "electric"
+      ],
+      "sprite": "/assets/regions/pokemon/921.png",
+      "animated": "/assets/regions/pokemon/921.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/921/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/921.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/921/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 926,
+      "name": "fidough",
+      "generation": 9,
+      "types": [
+        "fairy"
+      ],
+      "sprite": "/assets/regions/pokemon/926.png",
+      "animated": "/assets/regions/pokemon/926.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/926/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/926.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/926/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 928,
+      "name": "smoliv",
+      "generation": 9,
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "sprite": "/assets/regions/pokemon/928.png",
+      "animated": "/assets/regions/pokemon/928.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/928/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/928.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/928/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 959,
+      "name": "tinkaton",
+      "generation": 9,
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "sprite": "/assets/regions/pokemon/959.png",
+      "animated": "/assets/regions/pokemon/959.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/959/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/959.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/959/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "generation": 9,
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "sprite": "/assets/regions/pokemon/1000.png",
+      "animated": "/assets/regions/pokemon/1000.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/1000/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/1000.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1000.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/1000/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 975,
+      "name": "cetitan",
+      "generation": 9,
+      "types": [
+        "ice"
+      ],
+      "sprite": "/assets/regions/pokemon/975.png",
+      "animated": "/assets/regions/pokemon/975.png",
+      "source": "https://pokeapi.co/api/v2/pokemon/975/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/975.png",
+      "animatedSource": null,
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/975/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    {
+      "id": 1008,
+      "name": "miraidon",
+      "generation": 9,
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "sprite": "/assets/regions/pokemon/1008.png",
+      "animated": "/assets/regions/pokemon/1008.gif",
+      "source": "https://pokeapi.co/api/v2/pokemon/1008/",
+      "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/1008.png",
+      "animatedSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1008.gif",
+      "speciesSource": "https://pokeapi.co/api/v2/pokemon-species/1008/",
+      "generationSource": "https://pokeapi.co/api/v2/generation/9/"
+    }
+  ],
+  "portraits": [
+    {
+      "id": 53,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/53/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0053/Normal.png",
+      "credits": "/assets/story/portraits/53/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0053/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        }
+      ],
+      "gitBlob": "d6c3418ce8777e65dacc8b41d01861d5c82a5e81",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 71,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/71/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0071/Normal.png",
+      "credits": "/assets/regions/portraits/71/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0071/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "cd3f2bca6686e81d2dde61e5b4f8455079f8d19b",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 94,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/94/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0094/Normal.png",
+      "credits": "/assets/story/portraits/94/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0094/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "c433c85b009108f633e8db9b99e8bbea8b84e1f9",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 65,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/65/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0065/Normal.png",
+      "credits": "/assets/story/portraits/65/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0065/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "e09f9a8f87a424f1800d918ec53aaf83bac7e784",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 68,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/68/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0068/Normal.png",
+      "credits": "/assets/regions/portraits/68/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0068/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "4f3fdbaceac0f5ba2b1e3cfb203c646e41cbab22",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 12,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/12/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0012/Normal.png",
+      "credits": "/assets/story/portraits/12/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0012/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "66b25b2288aec45158b532dfff50c87d6ccfec53",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 129,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/129/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0129/Normal.png",
+      "credits": "/assets/story/portraits/129/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0129/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!408301000445788180>",
+          "name": "JemDragons",
+          "contact": "https://twitter.com/JemDragons?s=09"
+        }
+      ],
+      "gitBlob": "52344ab42f0b15523b6395b96e68c1f36b8badbb",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 39,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/39/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0039/Normal.png",
+      "credits": "/assets/story/portraits/39/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0039/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!314519507869761556>",
+          "name": "Mojo",
+          "contact": null
+        },
+        {
+          "id": "<@!237286997645983744>",
+          "name": "Emboarger",
+          "contact": null
+        }
+      ],
+      "gitBlob": "08587a3531e944821bc348d9ba2a958b6d9fb186",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 125,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/125/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0125/Normal.png",
+      "credits": "/assets/regions/portraits/125/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0125/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "8e57358091b7dc316657a67ba6c8b963d88fc697",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 115,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/115/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0115/Normal.png",
+      "credits": "/assets/regions/portraits/115/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0115/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!276369635304275968>",
+          "name": "Top_Kec",
+          "contact": "@topkec.bsky.social"
+        }
+      ],
+      "gitBlob": "1a4a42e2721b338f75318a8456a381ecf6423070",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 133,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/133/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0133/Normal.png",
+      "credits": "/assets/story/portraits/133/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0133/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "e42deda61fb201c900d8325976403a6a9384f2b0",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 131,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/131/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0131/Normal.png",
+      "credits": "/assets/story/portraits/131/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0131/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!322382592202637322>",
+          "name": "C_Pariah",
+          "contact": "<@322382592202637322>"
+        }
+      ],
+      "gitBlob": "41c63ade31897aa1990f55e68ac2da366f6d4602",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 149,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/149/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0149/Normal.png",
+      "credits": "/assets/story/portraits/149/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0149/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "5468091bdda49bbabd802031a2d4051eabdbdde6",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 113,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/113/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0113/Normal.png",
+      "credits": "/assets/story/portraits/113/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0113/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!314519507869761556>",
+          "name": "Mojo",
+          "contact": null
+        }
+      ],
+      "gitBlob": "e94e1f25f37af7f85bb9095f900bf8fca7f19e34",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 132,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/132/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0132/Normal.png",
+      "credits": "/assets/story/portraits/132/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0132/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!787048769883602956>",
+          "name": "<@!787048769883602956>",
+          "contact": null
+        }
+      ],
+      "gitBlob": "c209f6ffbbfc28b3656ae64db26fac0fc8b107dc",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 143,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/143/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0143/Normal.png",
+      "credits": "/assets/story/portraits/143/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0143/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "b1ae94dbdb46be26f105736d0574cbcb4d907955",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 112,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/112/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0112/Normal.png",
+      "credits": "/assets/regions/portraits/112/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0112/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "e8c20b25e35fa361481171d41132e0d72b7d0e92",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 26,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/26/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0026/Normal.png",
+      "credits": "/assets/regions/portraits/26/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0026/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "39bb2635618b3a45f2046e02b83352ee14b31b2e",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 137,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/137/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0137/Normal.png",
+      "credits": "/assets/regions/portraits/137/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0137/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!314519507869761556>",
+          "name": "Mojo",
+          "contact": null
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "986471890902eb58c80aaad132eb4e2999d6404c",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 148,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/148/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0148/Normal.png",
+      "credits": "/assets/regions/portraits/148/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0148/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "b71efaeae713b3c520589553e9987e3e4ff40ab3",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 52,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/52/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0052/Normal.png",
+      "credits": "/assets/story/portraits/52/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0052/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "03973fa8aebee824cdf630b31580da45e5f474b0",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 79,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/79/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0079/Normal.png",
+      "credits": "/assets/story/portraits/79/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0079/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "8e71b5df8f2831773e9256455adf30298cd4571b",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 25,
+      "generation": 1,
+      "portrait": "/assets/story/portraits/25/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0025/Normal.png",
+      "credits": "/assets/story/portraits/25/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0025/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "da9e7d2b41c6a410ae3038a8c9b8041ef4503225",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 35,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/35/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0035/Normal.png",
+      "credits": "/assets/regions/portraits/35/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0035/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "ESTELSTARLIGHT",
+          "name": "estelstarlight",
+          "contact": "https://estelstarlight.tumblr.com/post/186838449949"
+        }
+      ],
+      "gitBlob": "694b0976b7eafed607ff746d99383af16056eed9",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 36,
+      "generation": 1,
+      "portrait": "/assets/regions/portraits/36/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0036/Normal.png",
+      "credits": "/assets/regions/portraits/36/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0036/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!784171246011023481>",
+          "name": "jackolanternjackalope",
+          "contact": "https://www.instagram.com/jackolanternjackalope/"
+        }
+      ],
+      "gitBlob": "25bdd96128718e395b7e41634993227fc66a31fb",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 152,
+      "generation": 2,
+      "portrait": "/assets/regions/portraits/152/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0152/Normal.png",
+      "credits": "/assets/regions/portraits/152/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0152/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "53b3b02481e8e79bedfc9904d3b639e148f6384e",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 155,
+      "generation": 2,
+      "portrait": "/assets/regions/portraits/155/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0155/Normal.png",
+      "credits": "/assets/regions/portraits/155/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0155/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "572983b90cbfdd00a924977d9a4e27eafc03131b",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 158,
+      "generation": 2,
+      "portrait": "/assets/regions/portraits/158/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0158/Normal.png",
+      "credits": "/assets/regions/portraits/158/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0158/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "9ec41405caf37749d83ffcaec4c6754919647c8e",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 213,
+      "generation": 2,
+      "portrait": "/assets/story/portraits/213/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0213/Normal.png",
+      "credits": "/assets/story/portraits/213/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0213/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "94e6db52b288e556bc27c7ceb17a51e4b1f9427b",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 180,
+      "generation": 2,
+      "portrait": "/assets/story/portraits/180/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0180/Normal.png",
+      "credits": "/assets/story/portraits/180/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0180/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!436940337865293834>",
+          "name": "<@!436940337865293834>",
+          "contact": null
+        }
+      ],
+      "gitBlob": "f41953c73601fd882960c80089f3179ef87636a6",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 241,
+      "generation": 2,
+      "portrait": "/assets/story/portraits/241/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0241/Normal.png",
+      "credits": "/assets/story/portraits/241/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0241/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!157339721729572864>",
+          "name": "Vex",
+          "contact": null
+        },
+        {
+          "id": "<@!237286997645983744>",
+          "name": "Emboarger",
+          "contact": null
+        }
+      ],
+      "gitBlob": "2e032047afc31a54cb91e2feb3db5025376a150e",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 214,
+      "generation": 2,
+      "portrait": "/assets/regions/portraits/214/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0214/Normal.png",
+      "credits": "/assets/regions/portraits/214/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0214/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!702275233125630042>",
+          "name": "JFain",
+          "contact": null
+        }
+      ],
+      "gitBlob": "e1851729bcfc602e2f714843dca59caea246e442",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 248,
+      "generation": 2,
+      "portrait": "/assets/story/portraits/248/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0248/Normal.png",
+      "credits": "/assets/story/portraits/248/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0248/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "ec63c0a04ec04d8fe1b27d3a88b7b859fab1e033",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 181,
+      "generation": 2,
+      "portrait": "/assets/story/portraits/181/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0181/Normal.png",
+      "credits": "/assets/story/portraits/181/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0181/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "b4f09e87dd3ef5b6602bcc2f083d50c999d2bd51",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 233,
+      "generation": 2,
+      "portrait": "/assets/story/portraits/233/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0233/Normal.png",
+      "credits": "/assets/story/portraits/233/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0233/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!401608319762038794>",
+          "name": "Blanca",
+          "contact": null
+        }
+      ],
+      "gitBlob": "f4911479b8b6990b71f3e166d14f1e539e8d9582",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 252,
+      "generation": 3,
+      "portrait": "/assets/regions/portraits/252/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0252/Normal.png",
+      "credits": "/assets/regions/portraits/252/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0252/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "4fea46d8003fc4e6a0f1e2d32391383f2b182ede",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 255,
+      "generation": 3,
+      "portrait": "/assets/regions/portraits/255/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0255/Normal.png",
+      "credits": "/assets/regions/portraits/255/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0255/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "41756703d5680a5b13c7b3f229efb8d0509f7910",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 258,
+      "generation": 3,
+      "portrait": "/assets/regions/portraits/258/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0258/Normal.png",
+      "credits": "/assets/regions/portraits/258/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0258/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "3c636513a7ae3c58531abc24570eb76ca903f3a1",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 272,
+      "generation": 3,
+      "portrait": "/assets/regions/portraits/272/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0272/Normal.png",
+      "credits": "/assets/regions/portraits/272/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0272/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "ba64629ab6fd251ec6fc6ba2eaee909786505bf4",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 302,
+      "generation": 3,
+      "portrait": "/assets/story/portraits/302/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0302/Normal.png",
+      "credits": "/assets/story/portraits/302/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0302/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "118022950582f5d342e250b600810d5408f7ec8d",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 334,
+      "generation": 3,
+      "portrait": "/assets/regions/portraits/334/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0334/Normal.png",
+      "credits": "/assets/regions/portraits/334/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0334/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!421379254077620225>",
+          "name": "gromchurch",
+          "contact": "https://twitter.com/poongis2"
+        }
+      ],
+      "gitBlob": "59d3ebd72b73d29362ddb06de99b7b15ea8b00c7",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 359,
+      "generation": 3,
+      "portrait": "/assets/regions/portraits/359/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0359/Normal.png",
+      "credits": "/assets/regions/portraits/359/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0359/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "19ddd364e84b5d84fd2dd5eda23a0c8826e9c796",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 376,
+      "generation": 3,
+      "portrait": "/assets/story/portraits/376/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0376/Normal.png",
+      "credits": "/assets/story/portraits/376/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0376/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "b6fa4e8e3a54a3ef1babf7a8ea3c7f673fe8f732",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 385,
+      "generation": 3,
+      "portrait": "/assets/story/portraits/385/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0385/Normal.png",
+      "credits": "/assets/story/portraits/385/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0385/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "1179516bf88201f37c0b371dfe349293b788fa40",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 384,
+      "generation": 3,
+      "portrait": "/assets/story/portraits/384/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0384/Normal.png",
+      "credits": "/assets/story/portraits/384/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0384/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "1169d87103d9c84b95d28143448bb385d16425c8",
+      "verifiedCommit": "a886fb22498b5d32412b601082cfd96296c79784",
+      "reused": true
+    },
+    {
+      "id": 387,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/387/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0387/Normal.png",
+      "credits": "/assets/regions/portraits/387/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0387/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "7892e26d1b977e695afbfe4c489a8f79fe8cbd6d",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 390,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/390/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0390/Normal.png",
+      "credits": "/assets/regions/portraits/390/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0390/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "48a29fc1c967769293b516dacd5edf1a2d543694",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 393,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/393/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0393/Normal.png",
+      "credits": "/assets/regions/portraits/393/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0393/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "6c08e2bfd126041f3b4c1ad808246b052fcd74a8",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 417,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/417/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0417/Normal.png",
+      "credits": "/assets/regions/portraits/417/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0417/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        }
+      ],
+      "gitBlob": "4e28f7a184ded72c708a76838133e5ed3c8a21c6",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 418,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/418/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0418/Normal.png",
+      "credits": "/assets/regions/portraits/418/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0418/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "8b5979a3a41ec34f935a6df5cc1fffce45a7572f",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 407,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/407/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0407/Normal.png",
+      "credits": "/assets/regions/portraits/407/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0407/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "f94b7891b1d21457ea51c4904683eed68cf573f6",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 448,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/448/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0448/Normal.png",
+      "credits": "/assets/regions/portraits/448/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0448/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "a1fae1858c310df2e1bf4a57fd3f7eb35b7c1081",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 479,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/479/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0479/Normal.png",
+      "credits": "/assets/regions/portraits/479/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0479/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "7a0f485485bbc05ea8509a081ac78a0c8e1d676b",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 395,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/395/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0395/Normal.png",
+      "credits": "/assets/regions/portraits/395/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0395/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        },
+        {
+          "id": "<@!327927398941196289>",
+          "name": "0palite",
+          "contact": "https://zeropalart.tumblr.com/"
+        }
+      ],
+      "gitBlob": "6a195d760c896e91153259b00530578c4e81eeb3",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 445,
+      "generation": 4,
+      "portrait": "/assets/regions/portraits/445/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0445/Normal.png",
+      "credits": "/assets/regions/portraits/445/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0445/credits.txt",
+      "contributors": [
+        {
+          "id": "CHUNSOFT",
+          "name": "CHUNSOFT",
+          "contact": "https://www.spike-chunsoft.com/"
+        }
+      ],
+      "gitBlob": "e57aca32a0ed4f1f805944ab82ee44e0fbff8ef8",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 495,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/495/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0495/Normal.png",
+      "credits": "/assets/regions/portraits/495/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0495/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "ebe4b4d98020ae342dcff7ca08fee327ac7fe286",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 498,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/498/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0498/Normal.png",
+      "credits": "/assets/regions/portraits/498/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0498/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!150809243816165377>",
+          "name": "Noivern",
+          "contact": "https://twitter.com/notarealnoivern"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "36d0d5e853e70814d5f8f5299d86d5c230afd4e3",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 501,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/501/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0501/Normal.png",
+      "credits": "/assets/regions/portraits/501/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0501/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "108ce70adacf6f76857d69e237376147fc2960db",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 531,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/531/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0531/Normal.png",
+      "credits": "/assets/regions/portraits/531/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0531/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        }
+      ],
+      "gitBlob": "45be2ca8c2adc087511f002d59982c926e018b1b",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 547,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/547/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0547/Normal.png",
+      "credits": "/assets/regions/portraits/547/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0547/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        }
+      ],
+      "gitBlob": "807df27d132da30092d8d6f4615876063f90adb6",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 568,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/568/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0568/Normal.png",
+      "credits": "/assets/regions/portraits/568/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0568/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!810524028871114762>",
+          "name": "cyboy_bit",
+          "contact": null
+        },
+        {
+          "id": "POWERCRISTAL",
+          "name": "powercristal",
+          "contact": "https://www.deviantart.com/powercristal"
+        },
+        {
+          "id": "<@!217899432652308480>",
+          "name": "Noo",
+          "contact": "https://artfight.net/~NooNoo_Skidoo"
+        }
+      ],
+      "gitBlob": "a8a4938825179538ceacef24d3ba02b912885a08",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 595,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/595/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0595/Normal.png",
+      "credits": "/assets/regions/portraits/595/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0595/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!276369635304275968>",
+          "name": "Top_Kec",
+          "contact": "@topkec.bsky.social"
+        }
+      ],
+      "gitBlob": "005fbd825fc1e32a3a94d49f9461955f544931e9",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 609,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/609/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0609/Normal.png",
+      "credits": "/assets/regions/portraits/609/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0609/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "56d4059db34d0ea03d35b5d0f01903822c653577",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 623,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/623/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0623/Normal.png",
+      "credits": "/assets/regions/portraits/623/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0623/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        }
+      ],
+      "gitBlob": "a97768c9ac49221e6bd10efa89fd8979e434e96c",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 628,
+      "generation": 5,
+      "portrait": "/assets/regions/portraits/628/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0628/Normal.png",
+      "credits": "/assets/regions/portraits/628/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0628/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!217899432652308480>",
+          "name": "Noo",
+          "contact": "https://artfight.net/~NooNoo_Skidoo"
+        }
+      ],
+      "gitBlob": "dad8ba4b47ee6dfdb4334ac2f29f244bfb17ea05",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 650,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/650/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0650/Normal.png",
+      "credits": "/assets/regions/portraits/650/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0650/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!217899432652308480>",
+          "name": "Noo",
+          "contact": "https://artfight.net/~NooNoo_Skidoo"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "ad19f6db9de9334afaede19ab74f648bb44edfcc",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 653,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/653/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0653/Normal.png",
+      "credits": "/assets/regions/portraits/653/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0653/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!350050109741858829>",
+          "name": "G〜",
+          "contact": "https://bsky.app/profile/justtr4sh.pmd.social"
+        }
+      ],
+      "gitBlob": "764866151e510d1c4ab81f299841f42bb929832d",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 656,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/656/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0656/Normal.png",
+      "credits": "/assets/regions/portraits/656/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0656/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        },
+        {
+          "id": "<@!350050109741858829>",
+          "name": "G〜",
+          "contact": "https://bsky.app/profile/justtr4sh.pmd.social"
+        }
+      ],
+      "gitBlob": "5c6715a093c1eb34d7f0cc5b1272852498201f22",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 672,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/672/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0672/Normal.png",
+      "credits": "/assets/regions/portraits/672/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0672/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        },
+        {
+          "id": "<@!216640380408430592>",
+          "name": "TawnySoup",
+          "contact": "https://linktr.ee/tawnysoup"
+        }
+      ],
+      "gitBlob": "c17b54ac107b369155f9e8ca0840654b485ab415",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 676,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/676/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0676/Normal.png",
+      "credits": "/assets/regions/portraits/676/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0676/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!196351316681818112>",
+          "name": "Aviivix",
+          "contact": "https://twitter.com/aviivix/"
+        },
+        {
+          "id": "<@!555360707617488904>",
+          "name": "deltaflare",
+          "contact": "<@555360707617488904>"
+        },
+        {
+          "id": "<@!215638650434617345>",
+          "name": "◥θ┴θ◤",
+          "contact": "DC:<@215638650434617345>"
+        },
+        {
+          "id": "<@!331183966508023808>",
+          "name": "NeonCityRain",
+          "contact": "https://neoncityrain.tumblr.com/"
+        }
+      ],
+      "gitBlob": "9e2c98c1d00747d60a141dfeb45947be07a21fc4",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 700,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/700/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0700/Normal.png",
+      "credits": "/assets/regions/portraits/700/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0700/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "4e3c1415af490fa6f55d50c6a4c2de281d07571b",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 701,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/701/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0701/Normal.png",
+      "credits": "/assets/regions/portraits/701/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0701/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!229131140903075840>",
+          "name": "Soulja",
+          "contact": "https://twitter.com/OlSoulja"
+        }
+      ],
+      "gitBlob": "63974e2ffbede0f547079829ea917c1d21bcdd10",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 703,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/703/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0703/Normal.png",
+      "credits": "/assets/regions/portraits/703/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0703/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        },
+        {
+          "id": "<@!350050109741858829>",
+          "name": "G〜",
+          "contact": "https://bsky.app/profile/justtr4sh.pmd.social"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "2ad7e3de9cb6910e8d9522604023316c9a41079d",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 706,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/706/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0706/Normal.png",
+      "credits": "/assets/regions/portraits/706/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0706/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        }
+      ],
+      "gitBlob": "5e04fde43ce7f45bd67165dff9f23174d33789e2",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 707,
+      "generation": 6,
+      "portrait": "/assets/regions/portraits/707/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0707/Normal.png",
+      "credits": "/assets/regions/portraits/707/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0707/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        },
+        {
+          "id": "<@!215638650434617345>",
+          "name": "◥θ┴θ◤",
+          "contact": "DC:<@215638650434617345>"
+        }
+      ],
+      "gitBlob": "3ced6543856a4ecb0cf31dd090d14e6257fb0a71",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 722,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/722/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0722/Normal.png",
+      "credits": "/assets/regions/portraits/722/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0722/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "6850c582575980fd9e2eb362a15715ef55b7d420",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 725,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/725/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0725/Normal.png",
+      "credits": "/assets/regions/portraits/725/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0725/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "1f962d898e1983c0545c2157fb0d0396a5ac4b95",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 728,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/728/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0728/Normal.png",
+      "credits": "/assets/regions/portraits/728/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0728/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!225813236589527041>",
+          "name": "Fable",
+          "contact": "https://twitter.com/fabledpainter"
+        },
+        {
+          "id": "<@!215638650434617345>",
+          "name": "◥θ┴θ◤",
+          "contact": "DC:<@215638650434617345>"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "193498c0790572e7e96cf5468a590d02a69f46f7",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 741,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/741/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0741/Normal.png",
+      "credits": "/assets/regions/portraits/741/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0741/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        },
+        {
+          "id": "<@!276369635304275968>",
+          "name": "Top_Kec",
+          "contact": "@topkec.bsky.social"
+        }
+      ],
+      "gitBlob": "4dd46a9ae9ff1b49fbd338b3fa989ea29feca8c8",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 749,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/749/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0749/Normal.png",
+      "credits": "/assets/regions/portraits/749/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0749/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!193530896211509248>",
+          "name": "bwappi",
+          "contact": "https://bsky.app/profile/bwappi.bsky.social"
+        }
+      ],
+      "gitBlob": "6f0422fc58052a8abee7da7d797a8086a588186a",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 757,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/757/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0757/Normal.png",
+      "credits": "/assets/regions/portraits/757/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0757/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        }
+      ],
+      "gitBlob": "a528800b7a47d848c03a8eac8b19c5ce8dd67e7b",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 761,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/761/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0761/Normal.png",
+      "credits": "/assets/regions/portraits/761/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0761/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!544245909639397378>",
+          "name": "baronessfaron",
+          "contact": null
+        },
+        {
+          "id": "<@!833717817445974046>",
+          "name": "NOLASMOR",
+          "contact": null
+        }
+      ],
+      "gitBlob": "b82555f80d28d14ee991a4582b79aa7f5d0e03c3",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 765,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/765/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0765/Normal.png",
+      "credits": "/assets/regions/portraits/765/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0765/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!421379254077620225>",
+          "name": "gromchurch",
+          "contact": "https://twitter.com/poongis2"
+        },
+        {
+          "id": "<@!276369635304275968>",
+          "name": "Top_Kec",
+          "contact": "@topkec.bsky.social"
+        }
+      ],
+      "gitBlob": "5ae0daec59e3d90d2c54ffad4ad3b068bfd7be0b",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 778,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/778/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0778/Normal.png",
+      "credits": "/assets/regions/portraits/778/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0778/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "d679993362bee5db7fefc9f4129b0864579abcac",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 784,
+      "generation": 7,
+      "portrait": "/assets/regions/portraits/784/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0784/Normal.png",
+      "credits": "/assets/regions/portraits/784/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0784/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        },
+        {
+          "id": "<@!229131140903075840>",
+          "name": "Soulja",
+          "contact": "https://twitter.com/OlSoulja"
+        }
+      ],
+      "gitBlob": "1a00209f0037e3b1ae93ef7aef968b3389ab665f",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 810,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/810/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0810/Normal.png",
+      "credits": "/assets/regions/portraits/810/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0810/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!350050109741858829>",
+          "name": "G〜",
+          "contact": "https://bsky.app/profile/justtr4sh.pmd.social"
+        }
+      ],
+      "gitBlob": "08fafa5b59b4757ed6bbe66f1152357563e9d1a4",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 813,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/813/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0813/Normal.png",
+      "credits": "/assets/regions/portraits/813/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0813/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!319945906600411179>",
+          "name": "NeroIntruder",
+          "contact": "https://twitter.com/NeroIntruder"
+        },
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "c72de1f44a4b8c8201caa688338e17a1d1a06b3e",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 816,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/816/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0816/Normal.png",
+      "credits": "/assets/regions/portraits/816/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0816/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "34e109b6083f6ceac5364050a6afe7d7097a9fb6",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 831,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/831/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0831/Normal.png",
+      "credits": "/assets/regions/portraits/831/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0831/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "6ff310717893374375e3f7c15735001727e25020",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 835,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/835/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0835/Normal.png",
+      "credits": "/assets/regions/portraits/835/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0835/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!739304144552198285>",
+          "name": "RelicCipher",
+          "contact": "<@739304144552198285>"
+        }
+      ],
+      "gitBlob": "38f3b68053c9bc444d542d1536bb2c44b2dfa41d",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 845,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/845/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0845/Normal.png",
+      "credits": "/assets/regions/portraits/845/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0845/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!350050109741858829>",
+          "name": "G〜",
+          "contact": "https://bsky.app/profile/justtr4sh.pmd.social"
+        }
+      ],
+      "gitBlob": "8ef43653caf78dca1eb2f8e70cc32d8f75a2b8ba",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 849,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/849/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0849/Normal.png",
+      "credits": "/assets/regions/portraits/849/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0849/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "06ddfabcfac2db9cb5cdf81bcd37ae82f0ecc94b",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 869,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/869/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0869/Normal.png",
+      "credits": "/assets/regions/portraits/869/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0869/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "f11ebad983354e404502f307ff68bd2df1d09345",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 823,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/823/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0823/Normal.png",
+      "credits": "/assets/regions/portraits/823/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0823/credits.txt",
+      "contributors": [
+        {
+          "id": "EZERART",
+          "name": "EzerArt",
+          "contact": "https://twitter.com/EzerArt_"
+        },
+        {
+          "id": "<@!229131140903075840>",
+          "name": "Soulja",
+          "contact": "https://twitter.com/OlSoulja"
+        }
+      ],
+      "gitBlob": "1a06220e0266c1133cf4f952757d9953fd844391",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 887,
+      "generation": 8,
+      "portrait": "/assets/regions/portraits/887/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0887/Normal.png",
+      "credits": "/assets/regions/portraits/887/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0887/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "032256439b0739adf0d19cedf8454b8ab489ce46",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 906,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/906/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0906/Normal.png",
+      "credits": "/assets/regions/portraits/906/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0906/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "908c10118656cb54ff14f5de5bd1a2fadccf58d0",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 909,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/909/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0909/Normal.png",
+      "credits": "/assets/regions/portraits/909/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0909/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!350050109741858829>",
+          "name": "G〜",
+          "contact": "https://bsky.app/profile/justtr4sh.pmd.social"
+        }
+      ],
+      "gitBlob": "c90f7a05daf5ad41dd11bbb817f809575f38c3f2",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 912,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/912/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0912/Normal.png",
+      "credits": "/assets/regions/portraits/912/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0912/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "b95a1a0601f2330692330f63bca1a626d7c11a2f",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 921,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/921/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0921/Normal.png",
+      "credits": "/assets/regions/portraits/921/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0921/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "4b93222a76477fe605e8e99ed0981f9c2365b5c4",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 926,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/926/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0926/Normal.png",
+      "credits": "/assets/regions/portraits/926/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0926/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "493900d123e76de94e5f336d98da53c25e754388",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 928,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/928/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0928/Normal.png",
+      "credits": "/assets/regions/portraits/928/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0928/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "ee3c6fc04784524b835bc2653c377e2bda2e44c8",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 959,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/959/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0959/Normal.png",
+      "credits": "/assets/regions/portraits/959/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0959/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "0deb018263873bd09f8a1041a562d56ab568d9ef",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 1000,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/1000/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/1000/Normal.png",
+      "credits": "/assets/regions/portraits/1000/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/1000/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "6171e7f2e4437a3fc4ca2a27a4576c40c020b453",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 975,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/975/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0975/Normal.png",
+      "credits": "/assets/regions/portraits/975/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/0975/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "497f3d181a8afade2a61249de8311906169339d5",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    },
+    {
+      "id": 1008,
+      "generation": 9,
+      "portrait": "/assets/regions/portraits/1008/Normal.png",
+      "source": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/1008/Normal.png",
+      "credits": "/assets/regions/portraits/1008/credits.txt",
+      "creditsSource": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/f02cfde87e1e39504992091b1fbfcde89a774762/portrait/1008/credits.txt",
+      "contributors": [
+        {
+          "id": "<@!356635814668664832>",
+          "name": "Emmuffin",
+          "contact": "https://twitter.com/Ernmuffin"
+        }
+      ],
+      "gitBlob": "147c8d2b3dd09bf60981aff59cb91af3f96320a8",
+      "verifiedCommit": "f02cfde87e1e39504992091b1fbfcde89a774762",
+      "reused": false
+    }
+  ]
+}

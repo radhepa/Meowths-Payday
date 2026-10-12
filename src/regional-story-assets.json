@@ -1,0 +1,1168 @@
+{
+  "bodies": {
+    "152": "/assets/pokemon/152.png",
+    "155": "/assets/regions/pokemon/155.png",
+    "158": "/assets/regions/pokemon/158.png",
+    "180": "/assets/pokemon/180.png",
+    "181": "/assets/pokemon/181.png",
+    "213": "/assets/pokemon/213.png",
+    "214": "/assets/regions/pokemon/214.png",
+    "233": "/assets/pokemon/233.png",
+    "241": "/assets/pokemon/241.png",
+    "248": "/assets/pokemon/248.png",
+    "252": "/assets/regions/pokemon/252.png",
+    "255": "/assets/regions/pokemon/255.png",
+    "258": "/assets/regions/pokemon/258.png",
+    "272": "/assets/regions/pokemon/272.png",
+    "302": "/assets/story/pokemon/302.png",
+    "334": "/assets/regions/pokemon/334.png",
+    "359": "/assets/regions/pokemon/359.png",
+    "376": "/assets/pokemon/376.png",
+    "384": "/assets/pokemon/384.png",
+    "385": "/assets/story/pokemon/385.png",
+    "387": "/assets/regions/pokemon/387.png",
+    "390": "/assets/regions/pokemon/390.png",
+    "393": "/assets/regions/pokemon/393.png",
+    "395": "/assets/regions/pokemon/395.png",
+    "407": "/assets/regions/pokemon/407.png",
+    "417": "/assets/regions/pokemon/417.png",
+    "418": "/assets/regions/pokemon/418.png",
+    "445": "/assets/regions/pokemon/445.png",
+    "448": "/assets/regions/pokemon/448.png",
+    "479": "/assets/regions/pokemon/479.png",
+    "495": "/assets/regions/pokemon/495.png",
+    "498": "/assets/regions/pokemon/498.png",
+    "501": "/assets/regions/pokemon/501.png",
+    "531": "/assets/regions/pokemon/531.png",
+    "547": "/assets/regions/pokemon/547.png",
+    "568": "/assets/regions/pokemon/568.png",
+    "595": "/assets/regions/pokemon/595.png",
+    "609": "/assets/regions/pokemon/609.png",
+    "623": "/assets/regions/pokemon/623.png",
+    "628": "/assets/regions/pokemon/628.png",
+    "650": "/assets/regions/pokemon/650.png",
+    "653": "/assets/regions/pokemon/653.png",
+    "656": "/assets/regions/pokemon/656.png",
+    "672": "/assets/regions/pokemon/672.png",
+    "676": "/assets/regions/pokemon/676.png",
+    "700": "/assets/regions/pokemon/700.png",
+    "701": "/assets/regions/pokemon/701.png",
+    "703": "/assets/regions/pokemon/703.png",
+    "706": "/assets/regions/pokemon/706.png",
+    "707": "/assets/regions/pokemon/707.png",
+    "722": "/assets/regions/pokemon/722.png",
+    "725": "/assets/regions/pokemon/725.png",
+    "728": "/assets/regions/pokemon/728.png",
+    "741": "/assets/regions/pokemon/741.png",
+    "749": "/assets/regions/pokemon/749.png",
+    "757": "/assets/regions/pokemon/757.png",
+    "761": "/assets/regions/pokemon/761.png",
+    "765": "/assets/regions/pokemon/765.png",
+    "778": "/assets/regions/pokemon/778.png",
+    "784": "/assets/regions/pokemon/784.png",
+    "810": "/assets/regions/pokemon/810.png",
+    "813": "/assets/regions/pokemon/813.png",
+    "816": "/assets/regions/pokemon/816.png",
+    "823": "/assets/regions/pokemon/823.png",
+    "831": "/assets/regions/pokemon/831.png",
+    "835": "/assets/regions/pokemon/835.png",
+    "845": "/assets/regions/pokemon/845.png",
+    "849": "/assets/regions/pokemon/849.png",
+    "869": "/assets/regions/pokemon/869.png",
+    "887": "/assets/regions/pokemon/887.png",
+    "906": "/assets/regions/pokemon/906.png",
+    "909": "/assets/regions/pokemon/909.png",
+    "912": "/assets/regions/pokemon/912.png",
+    "921": "/assets/regions/pokemon/921.png",
+    "926": "/assets/regions/pokemon/926.png",
+    "928": "/assets/regions/pokemon/928.png",
+    "959": "/assets/regions/pokemon/959.png",
+    "975": "/assets/regions/pokemon/975.png",
+    "1000": "/assets/regions/pokemon/1000.png",
+    "1008": "/assets/regions/pokemon/1008.png"
+  },
+  "portraits": {
+    "152": {
+      "name": "Chikorita",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/152/Angry.png",
+        "Determined": "/assets/story-regions/portraits/152/Determined.png",
+        "Happy": "/assets/story-regions/portraits/152/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/152/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/152/Joyous.png",
+        "Normal": "/assets/regions/portraits/152/Normal.png",
+        "Sad": "/assets/story-regions/portraits/152/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/152/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/152/Worried.png"
+      }
+    },
+    "155": {
+      "name": "Cyndaquil",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/155/Angry.png",
+        "Determined": "/assets/story-regions/portraits/155/Determined.png",
+        "Happy": "/assets/story-regions/portraits/155/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/155/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/155/Joyous.png",
+        "Normal": "/assets/regions/portraits/155/Normal.png",
+        "Sad": "/assets/story-regions/portraits/155/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/155/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/155/Worried.png"
+      }
+    },
+    "158": {
+      "name": "Totodile",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/158/Angry.png",
+        "Determined": "/assets/story-regions/portraits/158/Determined.png",
+        "Happy": "/assets/story-regions/portraits/158/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/158/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/158/Joyous.png",
+        "Normal": "/assets/regions/portraits/158/Normal.png",
+        "Sad": "/assets/story-regions/portraits/158/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/158/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/158/Worried.png"
+      }
+    },
+    "180": {
+      "name": "Flaaffy",
+      "emotions": {
+        "Angry": "/assets/story/portraits/180/Angry.png",
+        "Determined": "/assets/story/portraits/180/Determined.png",
+        "Happy": "/assets/story/portraits/180/Happy.png",
+        "Inspired": "/assets/story/portraits/180/Inspired.png",
+        "Joyous": "/assets/story/portraits/180/Joyous.png",
+        "Normal": "/assets/story/portraits/180/Normal.png",
+        "Sad": "/assets/story/portraits/180/Sad.png",
+        "Surprised": "/assets/story/portraits/180/Surprised.png",
+        "Worried": "/assets/story/portraits/180/Worried.png"
+      }
+    },
+    "181": {
+      "name": "Ampharos",
+      "emotions": {
+        "Angry": "/assets/story/portraits/181/Angry.png",
+        "Determined": "/assets/story/portraits/181/Determined.png",
+        "Happy": "/assets/story/portraits/181/Happy.png",
+        "Inspired": "/assets/story/portraits/181/Inspired.png",
+        "Joyous": "/assets/story/portraits/181/Joyous.png",
+        "Normal": "/assets/story/portraits/181/Normal.png",
+        "Sad": "/assets/story/portraits/181/Sad.png",
+        "Surprised": "/assets/story/portraits/181/Surprised.png",
+        "Worried": "/assets/story/portraits/181/Worried.png"
+      }
+    },
+    "213": {
+      "name": "Shuckle",
+      "emotions": {
+        "Angry": "/assets/story/portraits/213/Angry.png",
+        "Determined": "/assets/story/portraits/213/Determined.png",
+        "Happy": "/assets/story/portraits/213/Happy.png",
+        "Inspired": "/assets/story/portraits/213/Inspired.png",
+        "Joyous": "/assets/story/portraits/213/Joyous.png",
+        "Normal": "/assets/story/portraits/213/Normal.png",
+        "Sad": "/assets/story/portraits/213/Sad.png",
+        "Surprised": "/assets/story/portraits/213/Surprised.png",
+        "Worried": "/assets/story/portraits/213/Worried.png"
+      }
+    },
+    "214": {
+      "name": "Heracross",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/214/Angry.png",
+        "Determined": "/assets/story-regions/portraits/214/Determined.png",
+        "Happy": "/assets/story-regions/portraits/214/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/214/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/214/Joyous.png",
+        "Normal": "/assets/regions/portraits/214/Normal.png",
+        "Sad": "/assets/story-regions/portraits/214/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/214/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/214/Worried.png"
+      }
+    },
+    "233": {
+      "name": "Porygon2",
+      "emotions": {
+        "Angry": "/assets/story/portraits/233/Angry.png",
+        "Determined": "/assets/story/portraits/233/Determined.png",
+        "Happy": "/assets/story/portraits/233/Happy.png",
+        "Inspired": "/assets/story/portraits/233/Inspired.png",
+        "Joyous": "/assets/story/portraits/233/Joyous.png",
+        "Normal": "/assets/story/portraits/233/Normal.png",
+        "Sad": "/assets/story/portraits/233/Sad.png",
+        "Surprised": "/assets/story/portraits/233/Surprised.png",
+        "Worried": "/assets/story/portraits/233/Worried.png"
+      }
+    },
+    "241": {
+      "name": "Miltank",
+      "emotions": {
+        "Angry": "/assets/story/portraits/241/Angry.png",
+        "Determined": "/assets/story/portraits/241/Determined.png",
+        "Happy": "/assets/story/portraits/241/Happy.png",
+        "Inspired": "/assets/story/portraits/241/Inspired.png",
+        "Joyous": "/assets/story/portraits/241/Joyous.png",
+        "Normal": "/assets/story/portraits/241/Normal.png",
+        "Sad": "/assets/story/portraits/241/Sad.png",
+        "Surprised": "/assets/story/portraits/241/Surprised.png",
+        "Worried": "/assets/story/portraits/241/Worried.png"
+      }
+    },
+    "248": {
+      "name": "Tyranitar",
+      "emotions": {
+        "Angry": "/assets/story/portraits/248/Angry.png",
+        "Determined": "/assets/story/portraits/248/Determined.png",
+        "Happy": "/assets/story/portraits/248/Happy.png",
+        "Inspired": "/assets/story/portraits/248/Inspired.png",
+        "Joyous": "/assets/story/portraits/248/Joyous.png",
+        "Normal": "/assets/story/portraits/248/Normal.png",
+        "Sad": "/assets/story/portraits/248/Sad.png",
+        "Surprised": "/assets/story/portraits/248/Surprised.png",
+        "Worried": "/assets/story/portraits/248/Worried.png"
+      }
+    },
+    "252": {
+      "name": "Treecko",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/252/Angry.png",
+        "Determined": "/assets/story-regions/portraits/252/Determined.png",
+        "Happy": "/assets/story-regions/portraits/252/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/252/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/252/Joyous.png",
+        "Normal": "/assets/regions/portraits/252/Normal.png",
+        "Sad": "/assets/story-regions/portraits/252/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/252/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/252/Worried.png"
+      }
+    },
+    "255": {
+      "name": "Torchic",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/255/Angry.png",
+        "Determined": "/assets/story-regions/portraits/255/Determined.png",
+        "Happy": "/assets/story-regions/portraits/255/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/255/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/255/Joyous.png",
+        "Normal": "/assets/regions/portraits/255/Normal.png",
+        "Sad": "/assets/story-regions/portraits/255/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/255/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/255/Worried.png"
+      }
+    },
+    "258": {
+      "name": "Mudkip",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/258/Angry.png",
+        "Determined": "/assets/story-regions/portraits/258/Determined.png",
+        "Happy": "/assets/story-regions/portraits/258/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/258/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/258/Joyous.png",
+        "Normal": "/assets/regions/portraits/258/Normal.png",
+        "Sad": "/assets/story-regions/portraits/258/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/258/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/258/Worried.png"
+      }
+    },
+    "272": {
+      "name": "Ludicolo",
+      "emotions": {
+        "Normal": "/assets/regions/portraits/272/Normal.png"
+      }
+    },
+    "302": {
+      "name": "Sableye",
+      "emotions": {
+        "Angry": "/assets/story/portraits/302/Angry.png",
+        "Determined": "/assets/story/portraits/302/Determined.png",
+        "Happy": "/assets/story/portraits/302/Happy.png",
+        "Inspired": "/assets/story/portraits/302/Inspired.png",
+        "Joyous": "/assets/story/portraits/302/Joyous.png",
+        "Normal": "/assets/story/portraits/302/Normal.png",
+        "Sad": "/assets/story/portraits/302/Sad.png",
+        "Surprised": "/assets/story/portraits/302/Surprised.png",
+        "Worried": "/assets/story/portraits/302/Worried.png"
+      }
+    },
+    "334": {
+      "name": "Altaria",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/334/Angry.png",
+        "Determined": "/assets/story-regions/portraits/334/Determined.png",
+        "Happy": "/assets/story-regions/portraits/334/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/334/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/334/Joyous.png",
+        "Normal": "/assets/regions/portraits/334/Normal.png",
+        "Sad": "/assets/story-regions/portraits/334/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/334/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/334/Worried.png"
+      }
+    },
+    "359": {
+      "name": "Absol",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/359/Angry.png",
+        "Determined": "/assets/story-regions/portraits/359/Determined.png",
+        "Happy": "/assets/story-regions/portraits/359/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/359/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/359/Joyous.png",
+        "Normal": "/assets/regions/portraits/359/Normal.png",
+        "Sad": "/assets/story-regions/portraits/359/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/359/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/359/Worried.png"
+      }
+    },
+    "376": {
+      "name": "Metagross",
+      "emotions": {
+        "Angry": "/assets/story/portraits/376/Angry.png",
+        "Determined": "/assets/story/portraits/376/Determined.png",
+        "Happy": "/assets/story/portraits/376/Happy.png",
+        "Inspired": "/assets/story/portraits/376/Inspired.png",
+        "Joyous": "/assets/story/portraits/376/Joyous.png",
+        "Normal": "/assets/story/portraits/376/Normal.png",
+        "Sad": "/assets/story/portraits/376/Sad.png",
+        "Surprised": "/assets/story/portraits/376/Surprised.png",
+        "Worried": "/assets/story/portraits/376/Worried.png"
+      }
+    },
+    "384": {
+      "name": "Rayquaza",
+      "emotions": {
+        "Angry": "/assets/story/portraits/384/Angry.png",
+        "Determined": "/assets/story/portraits/384/Determined.png",
+        "Happy": "/assets/story/portraits/384/Happy.png",
+        "Inspired": "/assets/story/portraits/384/Inspired.png",
+        "Joyous": "/assets/story/portraits/384/Joyous.png",
+        "Normal": "/assets/story/portraits/384/Normal.png",
+        "Sad": "/assets/story/portraits/384/Sad.png",
+        "Surprised": "/assets/story/portraits/384/Surprised.png",
+        "Worried": "/assets/story/portraits/384/Worried.png"
+      }
+    },
+    "385": {
+      "name": "Jirachi",
+      "emotions": {
+        "Angry": "/assets/story/portraits/385/Angry.png",
+        "Determined": "/assets/story/portraits/385/Determined.png",
+        "Happy": "/assets/story/portraits/385/Happy.png",
+        "Inspired": "/assets/story/portraits/385/Inspired.png",
+        "Joyous": "/assets/story/portraits/385/Joyous.png",
+        "Normal": "/assets/story/portraits/385/Normal.png",
+        "Sad": "/assets/story/portraits/385/Sad.png",
+        "Surprised": "/assets/story/portraits/385/Surprised.png",
+        "Worried": "/assets/story/portraits/385/Worried.png"
+      }
+    },
+    "387": {
+      "name": "Turtwig",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/387/Angry.png",
+        "Determined": "/assets/story-regions/portraits/387/Determined.png",
+        "Happy": "/assets/story-regions/portraits/387/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/387/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/387/Joyous.png",
+        "Normal": "/assets/regions/portraits/387/Normal.png",
+        "Sad": "/assets/story-regions/portraits/387/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/387/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/387/Worried.png"
+      }
+    },
+    "390": {
+      "name": "Chimchar",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/390/Angry.png",
+        "Determined": "/assets/story-regions/portraits/390/Determined.png",
+        "Happy": "/assets/story-regions/portraits/390/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/390/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/390/Joyous.png",
+        "Normal": "/assets/regions/portraits/390/Normal.png",
+        "Sad": "/assets/story-regions/portraits/390/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/390/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/390/Worried.png"
+      }
+    },
+    "393": {
+      "name": "Piplup",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/393/Angry.png",
+        "Determined": "/assets/story-regions/portraits/393/Determined.png",
+        "Happy": "/assets/story-regions/portraits/393/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/393/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/393/Joyous.png",
+        "Normal": "/assets/regions/portraits/393/Normal.png",
+        "Sad": "/assets/story-regions/portraits/393/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/393/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/393/Worried.png"
+      }
+    },
+    "395": {
+      "name": "Empoleon",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/395/Angry.png",
+        "Determined": "/assets/story-regions/portraits/395/Determined.png",
+        "Happy": "/assets/story-regions/portraits/395/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/395/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/395/Joyous.png",
+        "Normal": "/assets/regions/portraits/395/Normal.png",
+        "Sad": "/assets/story-regions/portraits/395/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/395/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/395/Worried.png"
+      }
+    },
+    "407": {
+      "name": "Roserade",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/407/Angry.png",
+        "Determined": "/assets/story-regions/portraits/407/Determined.png",
+        "Happy": "/assets/story-regions/portraits/407/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/407/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/407/Joyous.png",
+        "Normal": "/assets/regions/portraits/407/Normal.png",
+        "Sad": "/assets/story-regions/portraits/407/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/407/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/407/Worried.png"
+      }
+    },
+    "417": {
+      "name": "Pachirisu",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/417/Angry.png",
+        "Determined": "/assets/story-regions/portraits/417/Determined.png",
+        "Happy": "/assets/story-regions/portraits/417/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/417/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/417/Joyous.png",
+        "Normal": "/assets/regions/portraits/417/Normal.png",
+        "Sad": "/assets/story-regions/portraits/417/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/417/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/417/Worried.png"
+      }
+    },
+    "418": {
+      "name": "Buizel",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/418/Angry.png",
+        "Determined": "/assets/story-regions/portraits/418/Determined.png",
+        "Happy": "/assets/story-regions/portraits/418/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/418/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/418/Joyous.png",
+        "Normal": "/assets/regions/portraits/418/Normal.png",
+        "Sad": "/assets/story-regions/portraits/418/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/418/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/418/Worried.png"
+      }
+    },
+    "445": {
+      "name": "Garchomp",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/445/Angry.png",
+        "Determined": "/assets/story-regions/portraits/445/Determined.png",
+        "Happy": "/assets/story-regions/portraits/445/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/445/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/445/Joyous.png",
+        "Normal": "/assets/regions/portraits/445/Normal.png",
+        "Sad": "/assets/story-regions/portraits/445/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/445/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/445/Worried.png"
+      }
+    },
+    "448": {
+      "name": "Lucario",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/448/Angry.png",
+        "Determined": "/assets/story-regions/portraits/448/Determined.png",
+        "Happy": "/assets/story-regions/portraits/448/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/448/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/448/Joyous.png",
+        "Normal": "/assets/regions/portraits/448/Normal.png",
+        "Sad": "/assets/story-regions/portraits/448/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/448/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/448/Worried.png"
+      }
+    },
+    "479": {
+      "name": "Rotom",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/479/Angry.png",
+        "Determined": "/assets/story-regions/portraits/479/Determined.png",
+        "Happy": "/assets/story-regions/portraits/479/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/479/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/479/Joyous.png",
+        "Normal": "/assets/regions/portraits/479/Normal.png",
+        "Sad": "/assets/story-regions/portraits/479/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/479/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/479/Worried.png"
+      }
+    },
+    "495": {
+      "name": "Snivy",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/495/Angry.png",
+        "Determined": "/assets/story-regions/portraits/495/Determined.png",
+        "Happy": "/assets/story-regions/portraits/495/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/495/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/495/Joyous.png",
+        "Normal": "/assets/regions/portraits/495/Normal.png",
+        "Sad": "/assets/story-regions/portraits/495/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/495/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/495/Worried.png"
+      }
+    },
+    "498": {
+      "name": "Tepig",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/498/Angry.png",
+        "Determined": "/assets/story-regions/portraits/498/Determined.png",
+        "Happy": "/assets/story-regions/portraits/498/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/498/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/498/Joyous.png",
+        "Normal": "/assets/regions/portraits/498/Normal.png",
+        "Sad": "/assets/story-regions/portraits/498/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/498/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/498/Worried.png"
+      }
+    },
+    "501": {
+      "name": "Oshawott",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/501/Angry.png",
+        "Determined": "/assets/story-regions/portraits/501/Determined.png",
+        "Happy": "/assets/story-regions/portraits/501/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/501/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/501/Joyous.png",
+        "Normal": "/assets/regions/portraits/501/Normal.png",
+        "Sad": "/assets/story-regions/portraits/501/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/501/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/501/Worried.png"
+      }
+    },
+    "531": {
+      "name": "Audino",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/531/Angry.png",
+        "Determined": "/assets/story-regions/portraits/531/Determined.png",
+        "Happy": "/assets/story-regions/portraits/531/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/531/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/531/Joyous.png",
+        "Normal": "/assets/regions/portraits/531/Normal.png",
+        "Sad": "/assets/story-regions/portraits/531/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/531/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/531/Worried.png"
+      }
+    },
+    "547": {
+      "name": "Whimsicott",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/547/Angry.png",
+        "Determined": "/assets/story-regions/portraits/547/Determined.png",
+        "Happy": "/assets/story-regions/portraits/547/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/547/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/547/Joyous.png",
+        "Normal": "/assets/regions/portraits/547/Normal.png",
+        "Sad": "/assets/story-regions/portraits/547/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/547/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/547/Worried.png"
+      }
+    },
+    "568": {
+      "name": "Trubbish",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/568/Angry.png",
+        "Determined": "/assets/story-regions/portraits/568/Determined.png",
+        "Happy": "/assets/story-regions/portraits/568/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/568/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/568/Joyous.png",
+        "Normal": "/assets/regions/portraits/568/Normal.png",
+        "Sad": "/assets/story-regions/portraits/568/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/568/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/568/Worried.png"
+      }
+    },
+    "595": {
+      "name": "Joltik",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/595/Angry.png",
+        "Determined": "/assets/story-regions/portraits/595/Determined.png",
+        "Happy": "/assets/story-regions/portraits/595/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/595/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/595/Joyous.png",
+        "Normal": "/assets/regions/portraits/595/Normal.png",
+        "Sad": "/assets/story-regions/portraits/595/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/595/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/595/Worried.png"
+      }
+    },
+    "609": {
+      "name": "Chandelure",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/609/Angry.png",
+        "Determined": "/assets/story-regions/portraits/609/Determined.png",
+        "Happy": "/assets/story-regions/portraits/609/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/609/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/609/Joyous.png",
+        "Normal": "/assets/regions/portraits/609/Normal.png",
+        "Sad": "/assets/story-regions/portraits/609/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/609/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/609/Worried.png"
+      }
+    },
+    "623": {
+      "name": "Golurk",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/623/Angry.png",
+        "Determined": "/assets/story-regions/portraits/623/Determined.png",
+        "Happy": "/assets/story-regions/portraits/623/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/623/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/623/Joyous.png",
+        "Normal": "/assets/regions/portraits/623/Normal.png",
+        "Sad": "/assets/story-regions/portraits/623/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/623/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/623/Worried.png"
+      }
+    },
+    "628": {
+      "name": "Braviary",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/628/Angry.png",
+        "Determined": "/assets/story-regions/portraits/628/Determined.png",
+        "Happy": "/assets/story-regions/portraits/628/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/628/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/628/Joyous.png",
+        "Normal": "/assets/regions/portraits/628/Normal.png",
+        "Sad": "/assets/story-regions/portraits/628/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/628/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/628/Worried.png"
+      }
+    },
+    "650": {
+      "name": "Chespin",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/650/Angry.png",
+        "Determined": "/assets/story-regions/portraits/650/Determined.png",
+        "Happy": "/assets/story-regions/portraits/650/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/650/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/650/Joyous.png",
+        "Normal": "/assets/regions/portraits/650/Normal.png",
+        "Sad": "/assets/story-regions/portraits/650/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/650/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/650/Worried.png"
+      }
+    },
+    "653": {
+      "name": "Fennekin",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/653/Angry.png",
+        "Determined": "/assets/story-regions/portraits/653/Determined.png",
+        "Happy": "/assets/story-regions/portraits/653/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/653/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/653/Joyous.png",
+        "Normal": "/assets/regions/portraits/653/Normal.png",
+        "Sad": "/assets/story-regions/portraits/653/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/653/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/653/Worried.png"
+      }
+    },
+    "656": {
+      "name": "Froakie",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/656/Angry.png",
+        "Determined": "/assets/story-regions/portraits/656/Determined.png",
+        "Happy": "/assets/story-regions/portraits/656/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/656/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/656/Joyous.png",
+        "Normal": "/assets/regions/portraits/656/Normal.png",
+        "Sad": "/assets/story-regions/portraits/656/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/656/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/656/Worried.png"
+      }
+    },
+    "672": {
+      "name": "Skiddo",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/672/Angry.png",
+        "Determined": "/assets/story-regions/portraits/672/Determined.png",
+        "Happy": "/assets/story-regions/portraits/672/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/672/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/672/Joyous.png",
+        "Normal": "/assets/regions/portraits/672/Normal.png",
+        "Sad": "/assets/story-regions/portraits/672/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/672/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/672/Worried.png"
+      }
+    },
+    "676": {
+      "name": "Furfrou",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/676/Angry.png",
+        "Determined": "/assets/story-regions/portraits/676/Determined.png",
+        "Happy": "/assets/story-regions/portraits/676/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/676/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/676/Joyous.png",
+        "Normal": "/assets/regions/portraits/676/Normal.png",
+        "Sad": "/assets/story-regions/portraits/676/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/676/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/676/Worried.png"
+      }
+    },
+    "700": {
+      "name": "Sylveon",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/700/Angry.png",
+        "Determined": "/assets/story-regions/portraits/700/Determined.png",
+        "Happy": "/assets/story-regions/portraits/700/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/700/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/700/Joyous.png",
+        "Normal": "/assets/regions/portraits/700/Normal.png",
+        "Sad": "/assets/story-regions/portraits/700/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/700/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/700/Worried.png"
+      }
+    },
+    "701": {
+      "name": "Hawlucha",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/701/Angry.png",
+        "Determined": "/assets/story-regions/portraits/701/Determined.png",
+        "Happy": "/assets/story-regions/portraits/701/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/701/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/701/Joyous.png",
+        "Normal": "/assets/regions/portraits/701/Normal.png",
+        "Sad": "/assets/story-regions/portraits/701/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/701/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/701/Worried.png"
+      }
+    },
+    "703": {
+      "name": "Carbink",
+      "emotions": {
+        "Determined": "/assets/story-regions/portraits/703/Determined.png",
+        "Happy": "/assets/story-regions/portraits/703/Happy.png",
+        "Normal": "/assets/regions/portraits/703/Normal.png",
+        "Sad": "/assets/story-regions/portraits/703/Sad.png"
+      }
+    },
+    "706": {
+      "name": "Goodra",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/706/Angry.png",
+        "Determined": "/assets/story-regions/portraits/706/Determined.png",
+        "Happy": "/assets/story-regions/portraits/706/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/706/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/706/Joyous.png",
+        "Normal": "/assets/regions/portraits/706/Normal.png",
+        "Sad": "/assets/story-regions/portraits/706/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/706/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/706/Worried.png"
+      }
+    },
+    "707": {
+      "name": "Klefki",
+      "emotions": {
+        "Happy": "/assets/story-regions/portraits/707/Happy.png",
+        "Joyous": "/assets/story-regions/portraits/707/Joyous.png",
+        "Normal": "/assets/regions/portraits/707/Normal.png",
+        "Surprised": "/assets/story-regions/portraits/707/Surprised.png"
+      }
+    },
+    "722": {
+      "name": "Rowlet",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/722/Angry.png",
+        "Determined": "/assets/story-regions/portraits/722/Determined.png",
+        "Happy": "/assets/story-regions/portraits/722/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/722/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/722/Joyous.png",
+        "Normal": "/assets/regions/portraits/722/Normal.png",
+        "Sad": "/assets/story-regions/portraits/722/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/722/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/722/Worried.png"
+      }
+    },
+    "725": {
+      "name": "Litten",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/725/Angry.png",
+        "Determined": "/assets/story-regions/portraits/725/Determined.png",
+        "Happy": "/assets/story-regions/portraits/725/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/725/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/725/Joyous.png",
+        "Normal": "/assets/regions/portraits/725/Normal.png",
+        "Sad": "/assets/story-regions/portraits/725/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/725/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/725/Worried.png"
+      }
+    },
+    "728": {
+      "name": "Popplio",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/728/Angry.png",
+        "Determined": "/assets/story-regions/portraits/728/Determined.png",
+        "Happy": "/assets/story-regions/portraits/728/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/728/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/728/Joyous.png",
+        "Normal": "/assets/regions/portraits/728/Normal.png",
+        "Sad": "/assets/story-regions/portraits/728/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/728/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/728/Worried.png"
+      }
+    },
+    "741": {
+      "name": "Oricorio Baile",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/741/Angry.png",
+        "Determined": "/assets/story-regions/portraits/741/Determined.png",
+        "Happy": "/assets/story-regions/portraits/741/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/741/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/741/Joyous.png",
+        "Normal": "/assets/regions/portraits/741/Normal.png",
+        "Sad": "/assets/story-regions/portraits/741/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/741/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/741/Worried.png"
+      }
+    },
+    "749": {
+      "name": "Mudbray",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/749/Angry.png",
+        "Determined": "/assets/story-regions/portraits/749/Determined.png",
+        "Happy": "/assets/story-regions/portraits/749/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/749/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/749/Joyous.png",
+        "Normal": "/assets/regions/portraits/749/Normal.png",
+        "Sad": "/assets/story-regions/portraits/749/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/749/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/749/Worried.png"
+      }
+    },
+    "757": {
+      "name": "Salandit",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/757/Angry.png",
+        "Determined": "/assets/story-regions/portraits/757/Determined.png",
+        "Happy": "/assets/story-regions/portraits/757/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/757/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/757/Joyous.png",
+        "Normal": "/assets/regions/portraits/757/Normal.png",
+        "Sad": "/assets/story-regions/portraits/757/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/757/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/757/Worried.png"
+      }
+    },
+    "761": {
+      "name": "Bounsweet",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/761/Angry.png",
+        "Determined": "/assets/story-regions/portraits/761/Determined.png",
+        "Happy": "/assets/story-regions/portraits/761/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/761/Inspired.png",
+        "Normal": "/assets/regions/portraits/761/Normal.png",
+        "Sad": "/assets/story-regions/portraits/761/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/761/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/761/Worried.png"
+      }
+    },
+    "765": {
+      "name": "Oranguru",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/765/Angry.png",
+        "Determined": "/assets/story-regions/portraits/765/Determined.png",
+        "Happy": "/assets/story-regions/portraits/765/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/765/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/765/Joyous.png",
+        "Normal": "/assets/regions/portraits/765/Normal.png",
+        "Sad": "/assets/story-regions/portraits/765/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/765/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/765/Worried.png"
+      }
+    },
+    "778": {
+      "name": "Mimikyu Disguised",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/778/Angry.png",
+        "Determined": "/assets/story-regions/portraits/778/Determined.png",
+        "Happy": "/assets/story-regions/portraits/778/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/778/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/778/Joyous.png",
+        "Normal": "/assets/regions/portraits/778/Normal.png",
+        "Sad": "/assets/story-regions/portraits/778/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/778/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/778/Worried.png"
+      }
+    },
+    "784": {
+      "name": "Kommo O",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/784/Angry.png",
+        "Determined": "/assets/story-regions/portraits/784/Determined.png",
+        "Happy": "/assets/story-regions/portraits/784/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/784/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/784/Joyous.png",
+        "Normal": "/assets/regions/portraits/784/Normal.png",
+        "Sad": "/assets/story-regions/portraits/784/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/784/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/784/Worried.png"
+      }
+    },
+    "810": {
+      "name": "Grookey",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/810/Angry.png",
+        "Determined": "/assets/story-regions/portraits/810/Determined.png",
+        "Happy": "/assets/story-regions/portraits/810/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/810/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/810/Joyous.png",
+        "Normal": "/assets/regions/portraits/810/Normal.png",
+        "Sad": "/assets/story-regions/portraits/810/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/810/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/810/Worried.png"
+      }
+    },
+    "813": {
+      "name": "Scorbunny",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/813/Angry.png",
+        "Determined": "/assets/story-regions/portraits/813/Determined.png",
+        "Happy": "/assets/story-regions/portraits/813/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/813/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/813/Joyous.png",
+        "Normal": "/assets/regions/portraits/813/Normal.png",
+        "Sad": "/assets/story-regions/portraits/813/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/813/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/813/Worried.png"
+      }
+    },
+    "816": {
+      "name": "Sobble",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/816/Angry.png",
+        "Determined": "/assets/story-regions/portraits/816/Determined.png",
+        "Happy": "/assets/story-regions/portraits/816/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/816/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/816/Joyous.png",
+        "Normal": "/assets/regions/portraits/816/Normal.png",
+        "Sad": "/assets/story-regions/portraits/816/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/816/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/816/Worried.png"
+      }
+    },
+    "823": {
+      "name": "Corviknight",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/823/Angry.png",
+        "Determined": "/assets/story-regions/portraits/823/Determined.png",
+        "Happy": "/assets/story-regions/portraits/823/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/823/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/823/Joyous.png",
+        "Normal": "/assets/regions/portraits/823/Normal.png",
+        "Sad": "/assets/story-regions/portraits/823/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/823/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/823/Worried.png"
+      }
+    },
+    "831": {
+      "name": "Wooloo",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/831/Angry.png",
+        "Determined": "/assets/story-regions/portraits/831/Determined.png",
+        "Happy": "/assets/story-regions/portraits/831/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/831/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/831/Joyous.png",
+        "Normal": "/assets/regions/portraits/831/Normal.png",
+        "Sad": "/assets/story-regions/portraits/831/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/831/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/831/Worried.png"
+      }
+    },
+    "835": {
+      "name": "Yamper",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/835/Angry.png",
+        "Determined": "/assets/story-regions/portraits/835/Determined.png",
+        "Happy": "/assets/story-regions/portraits/835/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/835/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/835/Joyous.png",
+        "Normal": "/assets/regions/portraits/835/Normal.png",
+        "Sad": "/assets/story-regions/portraits/835/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/835/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/835/Worried.png"
+      }
+    },
+    "845": {
+      "name": "Cramorant",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/845/Angry.png",
+        "Determined": "/assets/story-regions/portraits/845/Determined.png",
+        "Happy": "/assets/story-regions/portraits/845/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/845/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/845/Joyous.png",
+        "Normal": "/assets/regions/portraits/845/Normal.png",
+        "Sad": "/assets/story-regions/portraits/845/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/845/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/845/Worried.png"
+      }
+    },
+    "849": {
+      "name": "Toxtricity Amped",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/849/Angry.png",
+        "Determined": "/assets/story-regions/portraits/849/Determined.png",
+        "Happy": "/assets/story-regions/portraits/849/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/849/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/849/Joyous.png",
+        "Normal": "/assets/regions/portraits/849/Normal.png",
+        "Sad": "/assets/story-regions/portraits/849/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/849/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/849/Worried.png"
+      }
+    },
+    "869": {
+      "name": "Alcremie",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/869/Angry.png",
+        "Determined": "/assets/story-regions/portraits/869/Determined.png",
+        "Happy": "/assets/story-regions/portraits/869/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/869/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/869/Joyous.png",
+        "Normal": "/assets/regions/portraits/869/Normal.png",
+        "Sad": "/assets/story-regions/portraits/869/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/869/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/869/Worried.png"
+      }
+    },
+    "887": {
+      "name": "Dragapult",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/887/Angry.png",
+        "Determined": "/assets/story-regions/portraits/887/Determined.png",
+        "Happy": "/assets/story-regions/portraits/887/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/887/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/887/Joyous.png",
+        "Normal": "/assets/regions/portraits/887/Normal.png",
+        "Sad": "/assets/story-regions/portraits/887/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/887/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/887/Worried.png"
+      }
+    },
+    "906": {
+      "name": "Sprigatito",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/906/Angry.png",
+        "Determined": "/assets/story-regions/portraits/906/Determined.png",
+        "Happy": "/assets/story-regions/portraits/906/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/906/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/906/Joyous.png",
+        "Normal": "/assets/regions/portraits/906/Normal.png",
+        "Sad": "/assets/story-regions/portraits/906/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/906/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/906/Worried.png"
+      }
+    },
+    "909": {
+      "name": "Fuecoco",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/909/Angry.png",
+        "Determined": "/assets/story-regions/portraits/909/Determined.png",
+        "Happy": "/assets/story-regions/portraits/909/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/909/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/909/Joyous.png",
+        "Normal": "/assets/regions/portraits/909/Normal.png",
+        "Sad": "/assets/story-regions/portraits/909/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/909/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/909/Worried.png"
+      }
+    },
+    "912": {
+      "name": "Quaxly",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/912/Angry.png",
+        "Determined": "/assets/story-regions/portraits/912/Determined.png",
+        "Happy": "/assets/story-regions/portraits/912/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/912/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/912/Joyous.png",
+        "Normal": "/assets/regions/portraits/912/Normal.png",
+        "Sad": "/assets/story-regions/portraits/912/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/912/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/912/Worried.png"
+      }
+    },
+    "921": {
+      "name": "Pawmi",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/921/Angry.png",
+        "Determined": "/assets/story-regions/portraits/921/Determined.png",
+        "Happy": "/assets/story-regions/portraits/921/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/921/Inspired.png",
+        "Normal": "/assets/regions/portraits/921/Normal.png",
+        "Worried": "/assets/story-regions/portraits/921/Worried.png"
+      }
+    },
+    "926": {
+      "name": "Fidough",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/926/Angry.png",
+        "Determined": "/assets/story-regions/portraits/926/Determined.png",
+        "Happy": "/assets/story-regions/portraits/926/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/926/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/926/Joyous.png",
+        "Normal": "/assets/regions/portraits/926/Normal.png",
+        "Sad": "/assets/story-regions/portraits/926/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/926/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/926/Worried.png"
+      }
+    },
+    "928": {
+      "name": "Smoliv",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/928/Angry.png",
+        "Determined": "/assets/story-regions/portraits/928/Determined.png",
+        "Happy": "/assets/story-regions/portraits/928/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/928/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/928/Joyous.png",
+        "Normal": "/assets/regions/portraits/928/Normal.png",
+        "Sad": "/assets/story-regions/portraits/928/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/928/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/928/Worried.png"
+      }
+    },
+    "959": {
+      "name": "Tinkaton",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/959/Angry.png",
+        "Determined": "/assets/story-regions/portraits/959/Determined.png",
+        "Happy": "/assets/story-regions/portraits/959/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/959/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/959/Joyous.png",
+        "Normal": "/assets/regions/portraits/959/Normal.png",
+        "Sad": "/assets/story-regions/portraits/959/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/959/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/959/Worried.png"
+      }
+    },
+    "975": {
+      "name": "Cetitan",
+      "emotions": {
+        "Normal": "/assets/regions/portraits/975/Normal.png"
+      }
+    },
+    "1000": {
+      "name": "Gholdengo",
+      "emotions": {
+        "Angry": "/assets/story-regions/portraits/1000/Angry.png",
+        "Determined": "/assets/story-regions/portraits/1000/Determined.png",
+        "Happy": "/assets/story-regions/portraits/1000/Happy.png",
+        "Inspired": "/assets/story-regions/portraits/1000/Inspired.png",
+        "Joyous": "/assets/story-regions/portraits/1000/Joyous.png",
+        "Normal": "/assets/regions/portraits/1000/Normal.png",
+        "Sad": "/assets/story-regions/portraits/1000/Sad.png",
+        "Surprised": "/assets/story-regions/portraits/1000/Surprised.png",
+        "Worried": "/assets/story-regions/portraits/1000/Worried.png"
+      }
+    },
+    "1008": {
+      "name": "Miraidon",
+      "emotions": {
+        "Normal": "/assets/regions/portraits/1008/Normal.png"
+      }
+    }
+  }
+}

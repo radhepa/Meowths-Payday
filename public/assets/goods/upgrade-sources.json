@@ -1,0 +1,17 @@
+[
+  {
+    "name": "quick-claw",
+    "source": "https://pokeapi.co/api/v2/item/quick-claw/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png"
+  },
+  {
+    "name": "exp-share",
+    "source": "https://pokeapi.co/api/v2/item/exp-share/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/exp-share.png"
+  },
+  {
+    "name": "town-map",
+    "source": "https://pokeapi.co/api/v2/item/town-map/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/town-map.png"
+  }
+]

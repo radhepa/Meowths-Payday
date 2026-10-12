@@ -1,0 +1,97 @@
+{
+  "species": 80,
+  "expressions": 682,
+  "reusedExpressions": 160,
+  "newExpressions": 522,
+  "portraitBytes": 1080427,
+  "creditedContributors": 35,
+  "flyingSpecies": 8,
+  "nativeFacing": {
+    "left": 65,
+    "right": 1,
+    "front": 14
+  },
+  "missingEmotionSpecies": [
+    {
+      "id": 272,
+      "name": "Ludicolo",
+      "missingEmotions": [
+        "Happy",
+        "Worried",
+        "Determined",
+        "Surprised",
+        "Inspired",
+        "Joyous",
+        "Sad",
+        "Angry"
+      ]
+    },
+    {
+      "id": 703,
+      "name": "Carbink",
+      "missingEmotions": [
+        "Worried",
+        "Surprised",
+        "Inspired",
+        "Joyous",
+        "Angry"
+      ]
+    },
+    {
+      "id": 707,
+      "name": "Klefki",
+      "missingEmotions": [
+        "Worried",
+        "Determined",
+        "Inspired",
+        "Sad",
+        "Angry"
+      ]
+    },
+    {
+      "id": 761,
+      "name": "Bounsweet",
+      "missingEmotions": [
+        "Joyous"
+      ]
+    },
+    {
+      "id": 921,
+      "name": "Pawmi",
+      "missingEmotions": [
+        "Surprised",
+        "Joyous",
+        "Sad"
+      ]
+    },
+    {
+      "id": 975,
+      "name": "Cetitan",
+      "missingEmotions": [
+        "Happy",
+        "Worried",
+        "Determined",
+        "Surprised",
+        "Inspired",
+        "Joyous",
+        "Sad",
+        "Angry"
+      ]
+    },
+    {
+      "id": 1008,
+      "name": "Miraidon",
+      "missingEmotions": [
+        "Happy",
+        "Worried",
+        "Determined",
+        "Surprised",
+        "Inspired",
+        "Joyous",
+        "Sad",
+        "Angry"
+      ]
+    }
+  ],
+  "verified": true
+}

@@ -1,0 +1,16 @@
+node_modules/
+dist/
+release/
+work/
+*.log
+*.zip
+*.exe
+*.blockmap
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.sites-local/
+*-test-profile/
+*-smoke-profile/

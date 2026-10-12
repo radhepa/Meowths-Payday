@@ -1,0 +1,31 @@
+name: Windows treasure chest
+
+on:
+  workflow_dispatch:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: read
+
+jobs:
+  desktop:
+    name: Build portable app and installer
+    runs-on: windows-latest
+    env:
+      CSC_IDENTITY_AUTO_DISCOVERY: 'false'
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run desktop:pack
+      - uses: actions/upload-artifact@v4
+        with:
+          name: meowth-windows
+          path: release/*.exe
+          if-no-files-found: error
+          retention-days: 14

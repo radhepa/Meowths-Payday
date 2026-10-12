@@ -1,0 +1,90 @@
+{
+  "name": "meowth-pay-day-empire",
+  "version": "1.1.3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "test": "node --test src/game.test.js src/story.test.js src/save-transfer.test.js desktop/protocol.test.cjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "desktop:icons": "node desktop/build-icon.mjs",
+    "desktop:start": "npm run build && npm run desktop:icons && electron .",
+    "desktop:pack": "npm run build && npm run desktop:icons && electron-builder --win --x64"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "@tailwindcss/vite": "^4.1.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "electron": "^44.7.0",
+    "electron-builder": "^26.15.3",
+    "tailwindcss": "^4.1.0",
+    "vite": "^7.1.0"
+  },
+  "description": "An offline Pokémon idle adventure across nine regions.",
+  "author": {
+    "name": "radhepa",
+    "email": "radherpatel7@gmail.com"
+  },
+  "main": "desktop/main.cjs",
+  "build": {
+    "appId": "fan.meowth.paydayempire",
+    "productName": "Meowth's Pay Day Empire",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "desktop/*.cjs",
+      "desktop/icon.png",
+      "package.json",
+      "!desktop/*.test.cjs"
+    ],
+    "asar": true,
+    "compression": "maximum",
+    "win": {
+      "icon": "desktop/icon.ico",
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "artifactName": "Meowth-Pay-Day-Empire-${version}-${arch}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Meowth's Pay Day Empire",
+      "deleteAppDataOnUninstall": false,
+      "artifactName": "Meowth-Pay-Day-Empire-${version}-${arch}-Setup.${ext}"
+    },
+    "portable": {
+      "artifactName": "Meowth-Pay-Day-Empire-${version}-${arch}-portable.${ext}"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radhepa/Meowths-Payday.git"
+  },
+  "homepage": "https://github.com/radhepa/Meowths-Payday#readme",
+  "bugs": {
+    "url": "https://github.com/radhepa/Meowths-Payday/issues"
+  }
+}

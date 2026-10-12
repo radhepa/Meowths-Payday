@@ -1,0 +1,26 @@
+{
+  "url": "https://github.com/PMDCollab/SpriteCollab/tree/master/portrait/0272/",
+  "commit": "c0c8b1346f2ce397ad0f997fb485d794cca2a7b2",
+  "entries": [
+    {
+      "name": "0000",
+      "path": "portrait/0272/0000",
+      "contentType": "directory"
+    },
+    {
+      "name": "0002",
+      "path": "portrait/0272/0002",
+      "contentType": "directory"
+    },
+    {
+      "name": "Normal.png",
+      "path": "portrait/0272/Normal.png",
+      "contentType": "file"
+    },
+    {
+      "name": "credits.txt",
+      "path": "portrait/0272/credits.txt",
+      "contentType": "file"
+    }
+  ]
+}

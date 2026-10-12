@@ -1,0 +1,77 @@
+[
+  {
+    "name": "miracle-seed",
+    "source": "https://pokeapi.co/api/v2/item/miracle-seed/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png"
+  },
+  {
+    "name": "old-rod",
+    "source": "https://pokeapi.co/api/v2/item/old-rod/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-rod.png"
+  },
+  {
+    "name": "lava-cookie",
+    "source": "https://pokeapi.co/api/v2/item/lava-cookie/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lava-cookie.png"
+  },
+  {
+    "name": "cell-battery",
+    "source": "https://pokeapi.co/api/v2/item/cell-battery/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cell-battery.png"
+  },
+  {
+    "name": "moomoo-milk",
+    "source": "https://pokeapi.co/api/v2/item/moomoo-milk/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moomoo-milk.png"
+  },
+  {
+    "name": "fire-stone",
+    "source": "https://pokeapi.co/api/v2/item/fire-stone/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-stone.png"
+  },
+  {
+    "name": "mystic-water",
+    "source": "https://pokeapi.co/api/v2/item/mystic-water/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png"
+  },
+  {
+    "name": "air-mail",
+    "source": "https://pokeapi.co/api/v2/item/air-mail/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/air-mail.png"
+  },
+  {
+    "name": "potion",
+    "source": "https://pokeapi.co/api/v2/item/potion/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png"
+  },
+  {
+    "name": "rare-candy",
+    "source": "https://pokeapi.co/api/v2/item/rare-candy/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-candy.png"
+  },
+  {
+    "name": "leftovers",
+    "source": "https://pokeapi.co/api/v2/item/leftovers/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png"
+  },
+  {
+    "name": "hard-stone",
+    "source": "https://pokeapi.co/api/v2/item/hard-stone/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png"
+  },
+  {
+    "name": "light-clay",
+    "source": "https://pokeapi.co/api/v2/item/light-clay/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png"
+  },
+  {
+    "name": "up-grade",
+    "source": "https://pokeapi.co/api/v2/item/up-grade/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/up-grade.png"
+  },
+  {
+    "name": "sky-plate",
+    "source": "https://pokeapi.co/api/v2/item/sky-plate/",
+    "spriteSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sky-plate.png"
+  }
+]
