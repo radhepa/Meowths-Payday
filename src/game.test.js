@@ -150,7 +150,7 @@ test("travel advances sequentially and preserves the whole empire", () => {
       "cafe-2",
       "power-2",
     ]);
-    assert.equal(game.story.unlocked.length, 50 + 10 * (region - 1));
+    assert.equal(game.story.unlocked.length, 50 + 25 * (region - 1));
   }
   assert.equal(travel(game), game);
   const visited = visitRegion(game, 1);
@@ -278,7 +278,7 @@ test("old saves migrate customer stats without losing a hired manager", () => {
   assert.equal(restored.businesses[0].customers, 0);
   assert.equal(restored.businesses[0].likes, 0);
   assert.equal(restored.version, 3);
-  assert.equal(restored.businesses.length, 100);
+  assert.equal(restored.businesses.length, 180);
   assert.equal(restored.businesses[5].quantity, 0);
 });
 
@@ -366,14 +366,14 @@ test("save IDs preserve ownership when display or stored order changes", () => {
     { ...game, businesses: game.businesses.slice(0, 5) },
     100,
   );
-  assert.equal(partial.businesses.length, 100);
+  assert.equal(partial.businesses.length, 180);
   assert.equal(partial.businesses[5].quantity, 0);
   assert.equal(BUSINESS_ORDER[1], 5);
 });
 
 test("every venture has complete shop artwork, PMD portrait, upgrade and unique identity", async () => {
   const { existsSync } = await import("node:fs");
-  assert.equal(new Set(BUSINESSES.map((b) => b.id)).size, 100);
+  assert.equal(new Set(BUSINESSES.map((b) => b.id)).size, 180);
   const fs = await import("node:fs");
   const portraits = JSON.parse(
     fs.readFileSync(
@@ -384,7 +384,7 @@ test("every venture has complete shop artwork, PMD portrait, upgrade and unique 
   const pokemon = JSON.parse(
     fs.readFileSync(new URL("./region-pokemon.json", import.meta.url), "utf8"),
   );
-  assert.equal(pokemon.length, 105);
+  assert.equal(pokemon.length, 185);
   for (const b of BUSINESSES) {
     assert.ok(
       existsSync(
@@ -411,5 +411,66 @@ test("every venture has complete shop artwork, PMD portrait, upgrade and unique 
     );
     assert.ok(UPGRADES.some((u) => u.type === b.id && u.name));
   }
-  assert.equal(UPGRADES.length, 105);
+  assert.equal(UPGRADES.length, 185);
+});
+
+test("each region has twenty distinct shopkeepers and the added tiers fit its travel economy", () => {
+  for (let region = 1; region <= 9; region++) {
+    const shops = BUSINESSES.filter((b) => b.region === region);
+    assert.equal(shops.length, 20);
+    assert.equal(new Set(shops.map((b) => b.managerPokemonId)).size, 20);
+    const added = shops.filter((b) => b.expansion);
+    assert.equal(added.length, region === 1 ? 0 : 10);
+    for (const b of added) {
+      assert.ok(Number.isFinite(b.baseCost) && b.baseCost > 0);
+      assert.ok(Number.isFinite(b.baseYield) && b.baseYield > 0);
+      assert.ok(Number.isInteger(b.seconds) && b.seconds > 0);
+      assert.ok(b.description !== "Local craft, shared with the whole neighborhood.");
+    }
+    if (region > 1) {
+      const highest = Math.max(...shops.filter((b) => !b.expansion).map((b) => b.baseCost));
+      assert.ok(added.every((b) => b.baseCost < highest));
+    }
+  }
+});
+
+test("a 100-shop save preserves every old business and fills eighty new slots without changing money", () => {
+  const raw = {
+    ...newGame(100), region: 9, unlockedRegion: 9,
+    balance: 1e24, lifetime: 1e24, runEarnings: 1e24,
+    regionEarnings: Array(9).fill(1e22),
+    businesses: newGame(100).businesses.slice(0, 100).map((b) => ({
+      ...b, quantity: 4, manager: true, elapsed: 500,
+      completedCycles: 25, shownCycles: 3, customers: 3, likes: 2,
+    })),
+    upgrades: ["tails-2", "r9-906-2", "all-2"],
+  };
+  const restored = restoreGame(raw, 100);
+  assert.equal(restored.businesses.length, 180);
+  assert.deepEqual(restored.businesses.slice(0, 100), raw.businesses);
+  assert.ok(restored.businesses.slice(100).every((b) => b.quantity === 0 && !b.manager && b.elapsed === null));
+  assert.equal(restored.balance, raw.balance);
+  assert.equal(restored.lifetime, raw.lifetime);
+  assert.equal(restored.unlockedRegion, 9);
+  assert.deepEqual(restored.upgrades, raw.upgrades);
+  assert.deepEqual(restoreGame(JSON.parse(JSON.stringify(restored)), 100), restored);
+});
+
+test("later travel waits for twenty shops, ten managers and all twenty-five scenes", () => {
+  let game = {
+    ...newGame(0), region: 2, unlockedRegion: 2,
+    balance: 1e20, lifetime: 1e20, runEarnings: 1e20,
+    regionEarnings: [0, 1e20, ...Array(7).fill(0)], clicks: 1,
+    businesses: newGame(0).businesses.map((b, i) => BUSINESSES[i].region === 2
+      ? { ...b, quantity: BUSINESSES[i].expansion ? 0 : 1, manager: true, elapsed: 0, completedCycles: 20 }
+      : b),
+  };
+  game = syncStory(game);
+  assert.equal(regionalProgress(game).total, 20);
+  assert.equal(regionalProgress(game).requiredManagers, 10);
+  assert.equal(regionalProgress(game).storyTotal, 25);
+  assert.equal(travel(game), game);
+  game = syncStory({ ...game, businesses: game.businesses.map((b, i) => BUSINESSES[i].region === 2 ? { ...b, quantity: 1 } : b) });
+  assert.equal(regionalProgress(game).ready, true);
+  assert.equal(travel(game).region, 3);
 });

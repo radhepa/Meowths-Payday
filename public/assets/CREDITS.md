@@ -1,6 +1,6 @@
 ## Nine-region update
 
-The active roster has 100 businesses and 105 generation-verified Pokémon. All current manager portrait sources and contributor histories are listed in [regional credits](regions/SOURCES.md), all real Kanto emotion assets in [story credits](story/SOURCES.md), and regional story expressions in [regional story credits](story-regions/SOURCES.md). Older cached assets below are retained for source provenance.
+The active roster has 180 businesses and 185 generation-verified Pokémon. All current manager portrait sources and contributor histories are listed in [regional credits](regions/SOURCES.md), all real Kanto emotion assets in [story credits](story/SOURCES.md), and regional story expressions in [regional story credits](story-regions/SOURCES.md). The eighty additional shopkeepers retain their pinned sources and upstream credit logs in [expansion credits](expansion/SOURCES.md). Older cached assets below are retained for source provenance.
 
 Twenty-one pixel landscapes accompany the game: nine region markets, four Kanto chapter variants and eight regional landmarks. Exact prompts and the inspected sprite style basis are in [original background prompts](backgrounds/PROMPTS.json) and [regional landmark prompts](backgrounds/REGIONAL-STORY-PROMPTS.json). No Pokémon or item sprites were generated or altered.
 

@@ -56,7 +56,7 @@ test("every story sprite has measured visible bounds and only actual Flying type
   }
 });
 
-test("all 130 casts stay on the same foreground path when backgrounds crop responsively", () => {
+test("all 250 casts stay on the same foreground path when backgrounds crop responsively", () => {
   const viewports = [
     [796, 286],
     [650, 226],
@@ -94,10 +94,10 @@ test("all 130 casts stay on the same foreground path when backgrounds crop respo
   }
 });
 
-test("all 130 authored scenes have valid Pokémon, real emotion portraits and locally cached body sprites", () => {
-  assert.equal(SCENES.length, 130);
-  assert.equal(CHAPTERS.length, 21);
-  assert.equal(new Set(SCENES.map((s) => s.id)).size, 130);
+test("all 250 authored scenes have valid Pokémon, real emotion portraits and locally cached body sprites", () => {
+  assert.equal(SCENES.length, 250);
+  assert.equal(CHAPTERS.length, 45);
+  assert.equal(new Set(SCENES.map((s) => s.id)).size, 250);
   const portraits = load("../public/assets/story/portrait-manifest.json");
   const bodies = load("../public/assets/story/full-body-manifest.json");
   assert.deepEqual(load("./story-assets.json"), { portraits, bodies });
@@ -112,7 +112,7 @@ test("all 130 authored scenes have valid Pokémon, real emotion portraits and lo
       s.chapter,
       s.region === 1
         ? Math.floor(i / 10)
-        : 5 + (s.region - 2) * 2 + Math.floor((s.regionNumber - 1) / 5),
+        : 5 + (s.region - 2) * 5 + Math.floor((s.regionNumber - 1) / 5),
     );
     assert.ok(requirementLabel(s.requirement).length > 5);
     assert.ok(s.lines.length >= 6);
@@ -162,7 +162,7 @@ test("story unlocks in order without granting money and survives every Kanto mil
   assert.equal(rich.story.checkpoint, null);
   assert.equal(rich.balance, 1e14);
   const traveled = syncStory({ ...rich, region: 2, unlockedRegion: 2 });
-  assert.equal(traveled.story.unlocked.length, 59);
+  assert.equal(traveled.story.unlocked.length, 73);
   assert.deepEqual(
     restoreGame(JSON.parse(JSON.stringify(traveled)), 0),
     traveled,
@@ -246,30 +246,29 @@ test("all regions unlock an independent ordered story without borrowing another 
     };
     game = syncStory(game);
     const scenes = scenesForRegion(region.id);
-    assert.equal(scenes.length, 10);
+    assert.equal(scenes.length, 25);
     assert.ok(game.story.unlocked.includes(scenes[0].id));
     assert.ok(!game.story.unlocked.includes(scenes[1].id));
-    const indices = BUSINESSES.map((b, i) => ({ b, i }))
-      .filter(({ b }) => b.region === region.id)
-      .sort((a, b) => a.b.baseCost - b.b.baseCost);
-    game = syncStory(buyBusiness(game, indices[0].i, 1));
+    const firstShop = BUSINESSES.findIndex((b) => b.id === scenes[1].requirement.id);
+    game = syncStory(buyBusiness(game, firstShop, 1));
     assert.ok(game.story.unlocked.includes(scenes[1].id));
     assert.ok(!game.story.unlocked.includes(scenes[2].id));
     game = syncStory({
       ...game,
       businesses: game.businesses.map((b, i) =>
         BUSINESSES[i].region === region.id
-          ? { ...b, quantity: 1, manager: true, elapsed: 0, completedCycles: 5 }
+          ? { ...b, quantity: 1, manager: true, elapsed: 0, completedCycles: 20 }
           : b,
       ),
     });
     assert.ok(game.story.unlocked.includes(scenes[8].id));
-    assert.ok(!game.story.unlocked.includes(scenes[9].id));
+    assert.ok(!game.story.unlocked.includes(scenes[23].id));
+    assert.ok(!game.story.unlocked.includes(scenes[24].id));
     const beforeMilestone = game.balance;
     const earned = [...game.regionEarnings];
     earned[region.id - 1] = region.earningsGoal;
     game = syncStory({ ...game, regionEarnings: earned });
-    assert.ok(game.story.unlocked.includes(scenes[9].id));
+    assert.ok(scenes.every((s) => game.story.unlocked.includes(s.id)));
     assert.equal(game.balance, beforeMilestone);
     assert.deepEqual(restoreGame(JSON.parse(JSON.stringify(game)), 0), game);
   }
@@ -346,10 +345,61 @@ test("legacy autoplay migration happens once and new explicit preferences surviv
     },
     0,
   );
-  assert.equal(migrated.story.schema, 2);
+  assert.equal(migrated.story.schema, 3);
   assert.equal(migrated.story.autoPlay, true);
   assert.deepEqual(nextAutomaticScene(migrated), {
     id: "region-9-01",
     lineIndex: 0,
   });
+});
+
+test("each later story adds fifteen unique six-beat scenes before its stable farewell", () => {
+  for (let region = 2; region <= 9; region++) {
+    const scenes = scenesForRegion(region);
+    assert.equal(scenes.length, 25);
+    assert.equal(new Set(scenes.map((s) => s.title)).size, 25);
+    assert.deepEqual(scenes.map((s) => s.regionNumber), Array.from({ length: 25 }, (_, i) => i + 1));
+    assert.equal(scenes.at(-1).id, `region-${region}-10`);
+    assert.equal(new Set(scenes.map((s) => s.chapter)).size, 5);
+    assert.equal(new Set(scenes.map((s) => CHAPTERS[s.chapter].setting)).size, 2);
+    for (const scene of scenes.slice(9, 24)) {
+      assert.equal(scene.lines.length, 6);
+      assert.equal(new Set(scene.lines.map((l) => l.text)).size, 6);
+    }
+  }
+});
+
+test("old watched farewells and checkpoints survive inserted scenes across repeated refreshes", () => {
+  for (let region = 2; region <= 9; region++) {
+    const historical = Array.from({ length: 10 }, (_, i) => `region-${region}-${String(i + 1).padStart(2, "0")}`);
+    const oldStory = { schema: 2, unlocked: historical, seen: historical.slice(0, 9), autoPlay: false,
+      checkpoint: { sceneId: historical[9], lineIndex: 4 } };
+    let restored = restoreStory(oldStory, region);
+    assert.equal(restored.schema, 3);
+    assert.deepEqual(restored.unlocked, historical);
+    assert.deepEqual(restored.seen, oldStory.seen);
+    assert.deepEqual(restored.checkpoint, oldStory.checkpoint);
+    assert.equal(restored.autoPlay, false);
+    restored = restoreStory(JSON.parse(JSON.stringify(restored)), region);
+    assert.deepEqual(restored.unlocked, historical);
+    assert.deepEqual(restored.checkpoint, oldStory.checkpoint);
+    const seen = restoreStory({ ...restored, seen: historical, checkpoint: null }, region);
+    assert.deepEqual(seen.seen, historical);
+  }
+});
+
+test("new neighborhood milestones enqueue automatically after a historical story without replaying it", () => {
+  const historical = Array.from({ length: 10 }, (_, i) => `region-2-${String(i + 1).padStart(2, "0")}`);
+  let game = {
+    ...newGame(0), region: 2, unlockedRegion: 2, balance: 1e20, lifetime: 1e20,
+    story: restoreStory({ schema: 2, unlocked: historical, seen: historical, autoPlay: true }, 2),
+  };
+  assert.equal(nextAutomaticScene(game), null);
+  const newShop = BUSINESSES.findIndex((b) => b.id === "r2-163");
+  game = syncStory(buyBusiness(game, newShop, 1));
+  assert.deepEqual(nextAutomaticScene(game), { id: "region-2-11", lineIndex: 0 });
+  game = storyCheckpoint(game, "region-2-11", 3);
+  const restored = restoreGame(JSON.parse(JSON.stringify(game)), 0);
+  assert.deepEqual(nextAutomaticScene(restored), { id: "region-2-11", lineIndex: 3 });
+  assert.ok(restored.story.seen.includes("region-2-10"));
 });

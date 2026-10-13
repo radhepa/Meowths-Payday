@@ -2,9 +2,9 @@
 
 ## Play
 
-Run **Meowth-Pay-Day-Empire-1.1.3-x64-portable.exe**. It needs no installation, browser, account, Node.js, or internet connection. All 100 businesses, nine regions, 130 automatic cutscenes, 21 backgrounds, sprites, items, and emotion portraits are included.
+Run **Meowth-Pay-Day-Empire-1.2.0-x64-portable.exe**. It needs no installation, browser, account, Node.js, or internet connection. All 180 businesses, nine regions, 250 automatic cutscenes, 21 backgrounds, sprites, items, and emotion portraits are included.
 
-Alternatively, run the **Meowth-Pay-Day-Empire-1.1.3-x64-Setup.exe** installer for Start menu and desktop shortcuts. Both editions share the same save profile.
+Alternatively, run the **Meowth-Pay-Day-Empire-1.2.0-x64-Setup.exe** installer for Start menu and desktop shortcuts. Both editions share the same save profile.
 
 ## Move your current web empire
 

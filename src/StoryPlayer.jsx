@@ -179,7 +179,7 @@ export function StoryJournal({ story, region = 1, onOpen, onToggle }) {
         })}
       </div>
       <p className="story-journal-note">
-        All 130 scenes stay with you as you travel. New milestones play
+        All {SCENES.length} scenes stay with you as you travel. New milestones play
         automatically. Return to town to save your place, or skip a scene and
         replay later.
       </p>

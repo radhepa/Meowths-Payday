@@ -1,6 +1,7 @@
 import { BUSINESSES } from "./catalog.js";
 import { regionInfo } from "./regions.js";
 import assets from "./regional-story-assets.json" with { type: "json" };
+import { REGIONAL_STORY_EXPANSION } from "./regional-story-expansion.js";
 
 // Original regional adventures. Every on-stage cast belongs to its generation.
 // Six beats give each neighbor a voice; unavailable PMD expressions use Normal.
@@ -143,7 +144,7 @@ export const REGIONAL_ARCS = [
         "Ten stalls, one bell",
         [158, 214, 181],
         [
-          "All ten stalls are open! The whole market sent someone to pull the rope.",
+          "Our first ten stalls are open! The whole market sent someone to pull the rope.",
           "Little paws in front, big paws behind. We'll pull on three, together.",
           "I'll dim my tail so we can see every lantern answer the bell.",
           "One, two, three! Ding! Hey, the grove sounds happy!",
@@ -554,7 +555,7 @@ export const REGIONAL_ARCS = [
         "The platform of a hundred welcomes",
         [623, 609, 628],
         [
-          "All ten shops are open. The terminal clock agrees with the trains, and the crossing is clear.",
+          "Our first ten shops are open. The terminal clock agrees with the trains, and the crossing is clear.",
           "I'll light the last platform lamp. Not too bright for tired travelers.",
           "The evening train is arriving. Its passengers will see the market before they see the tallest tower.",
           "Then they'll know where to ask for help. That is a better landmark than height alone.",
@@ -691,7 +692,7 @@ export const REGIONAL_ARCS = [
         "The garden beyond the gate",
         [707, 701, 700],
         [
-          "All ten shops are open, and I found the gate key! But everyone has already gathered on the terrace.",
+          "Our first ten shops are open, and I found the gate key! But everyone has already gathered on the terrace.",
           "Then open it for anyone who wants to explore. The party doesn't have to move just because a door does.",
           "Look at the tables. Different paws, different recipes, one very long ribbon of friends.",
           "I'll keep the gate open. A key should make an invitation possible, not make a neighbor prove anything.",
@@ -828,7 +829,7 @@ export const REGIONAL_ARCS = [
         "The cove answers back",
         [728, 778, 784],
         [
-          "All ten shops are open! Shall we begin the welcome song? Mimikyu, your shell has the first note.",
+          "Our first ten shops are open! Shall we begin the welcome song? Mimikyu, your shell has the first note.",
           "Mine? All right. Ting... There. I did it without hiding behind the table.",
           "I heard it all the way across the cove. Now my scales can answer, gently.",
           "And I'll sing between your notes. One song with room for every voice!",
@@ -965,7 +966,7 @@ export const REGIONAL_ARCS = [
         "The winning platform",
         [813, 816, 835],
         [
-          "All ten shops are open! The train is ready. I could run ahead and be the first passenger aboard.",
+          "Our first ten shops are open! The train is ready. I could run ahead and be the first passenger aboard.",
           "One customer's basket strap broke. They need help before they can reach the platform.",
           "I'll bring a spare strap. Keep the path clear, and let the station know we're on our way.",
           "Then I'll be the last runner, carrying their basket. A win means the whole team arrives.",
@@ -1102,7 +1103,7 @@ export const REGIONAL_ARCS = [
         "The road returns a welcome",
         [1008, 1000, 959],
         [
-          "All ten shops are open. I followed the world route and found a different welcome at every stop.",
+          "Our first ten shops are open. I followed the world route and found a different welcome at every stop.",
           "A lantern from Johto, a weather chart from Hoenn, a scarf from Sinnoh. They're all on the terrace tonight.",
           "And baskets from Unova, ribbons from Kalos, a shell from Alola, and Galar's team scarf! I'll build a careful little display.",
           "Leave space for Kanto's promise too. No Pokémon left behind. It belongs beside every one of those gifts.",
@@ -1129,18 +1130,18 @@ export const REGIONAL_ARCS = [
 // Regional milestone order follows shop cost, not catalog insertion order.
 // Rayquaza retains its historical save ID while living at the end of Hoenn.
 export const REGIONAL_CHAPTERS = REGIONAL_ARCS.flatMap((arc) =>
-  arc.chapters.map((c, i) => ({
+  [...arc.chapters, ...REGIONAL_STORY_EXPANSION[arc.region].chapters].map((c, i) => ({
     ...c,
     region: arc.region,
     number: i + 1,
-    setting: `region-${arc.region}-${i === 0 ? "market" : "landmark"}`,
+    setting: `region-${arc.region}-${c.setting ?? (i === 0 ? "market" : "landmark")}`,
   })),
 );
 export const REGIONAL_CAST = Object.fromEntries(
   Object.entries(assets.portraits).map(([id, p]) => [id, p.name]),
 );
 export const REGIONAL_SCENES = REGIONAL_ARCS.flatMap((arc) => {
-  const shops = BUSINESSES.filter((b) => b.region === arc.region).sort(
+  const shops = BUSINESSES.filter((b) => b.region === arc.region && !b.expansion).sort(
     (a, b) => a.baseCost - b.baseCost,
   );
   const requirements = [
@@ -1159,13 +1160,31 @@ export const REGIONAL_SCENES = REGIONAL_ARCS.flatMap((arc) => {
       amount: regionInfo(arc.region).earningsGoal,
     },
   ];
-  return arc.scenes.map((s, i) => ({
+  const expanded = REGIONAL_STORY_EXPANSION[arc.region].scenes.map((s) =>
+    moment(s.title, s.cast, s.dialogue),
+  );
+  const newShops = BUSINESSES.filter((b) => b.region === arc.region && b.expansion);
+  const expandedRequirements = [
+    ...newShops.map((b) => ({ kind: "own", id: b.id, quantity: 1 })),
+    { kind: "regional-owned", region: arc.region, amount: 15 },
+    { kind: "managers", region: arc.region, amount: 10 },
+    { kind: "cycles", id: shops[0].id, amount: 20 },
+    { kind: "regional-owned", region: arc.region, amount: 20 },
+    { kind: "lifetime", region: arc.region, amount: regionInfo(arc.region).earningsGoal / 2 },
+  ];
+  // Keep all ten historical IDs. Insert the neighborhood arc before the farewell
+  // rather than replaying a departure halfway through the expanded adventure.
+  const ordered = [
+    ...arc.scenes.slice(0, 9).map((s, i) => ({ ...s, stableNumber: i + 1, requirement: requirements[i] })),
+    ...expanded.map((s, i) => ({ ...s, stableNumber: i + 11, requirement: expandedRequirements[i] })),
+    { ...arc.scenes[9], stableNumber: 10, requirement: requirements[9] },
+  ];
+  return ordered.map(({ stableNumber, ...s }, i) => ({
     ...s,
-    id: `region-${arc.region}-${String(i + 1).padStart(2, "0")}`,
+    id: `region-${arc.region}-${String(stableNumber).padStart(2, "0")}`,
     region: arc.region,
-    number: 51 + (arc.region - 2) * 10 + i,
+    number: 51 + (arc.region - 2) * 25 + i,
     regionNumber: i + 1,
-    chapter: 5 + (arc.region - 2) * 2 + Math.floor(i / 5),
-    requirement: requirements[i],
+    chapter: 5 + (arc.region - 2) * 5 + Math.floor(i / 5),
   }));
 });

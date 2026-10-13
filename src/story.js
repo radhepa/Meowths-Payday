@@ -2356,7 +2356,7 @@ export const SCENES = [
 export const scenesForRegion = (region) =>
   SCENES.filter((s) => s.region === region);
 export const emptyStory = () => ({
-  schema: 2,
+  schema: 3,
   unlocked: [],
   seen: [],
   checkpoint: null,
@@ -2464,13 +2464,25 @@ export function restoreStory(raw, unlockedRegion = 9) {
       if (!saved.has(s.id)) break;
       story.unlocked.push(s.id);
     }
+    // The original farewell now follows fifteen inserted scenes. A completed
+    // historical prefix remains earned on every refresh, without granting the
+    // new milestones or replaying the old farewell.
+    if (region > 1) {
+      const historical = Array.from({ length: 10 }, (_, i) =>
+        `region-${region}-${String(i + 1).padStart(2, "0")}`,
+      );
+      if (historical.every((id) => saved.has(id)))
+        story.unlocked.push(historical[9]);
+    }
   }
+  const retained = new Set(story.unlocked);
+  story.unlocked = SCENES.filter((s) => retained.has(s.id)).map((s) => s.id);
   story.seen = [...new Set(Array.isArray(raw.seen) ? raw.seen : [])].filter(
     (id) => story.unlocked.includes(id),
   );
   // Enable the expanded world story once for legacy saves. New explicit
   // pause preferences remain respected after this migration.
-  story.autoPlay = raw.schema === 2 ? raw.autoPlay !== false : true;
+  story.autoPlay = [2, 3].includes(raw.schema) ? raw.autoPlay !== false : true;
   const checkpoint = raw.checkpoint;
   const s = SCENES.find((s) => s.id === checkpoint?.sceneId);
   if (

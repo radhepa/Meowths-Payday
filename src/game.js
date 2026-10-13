@@ -296,7 +296,7 @@ export function regionalProgress(game, region = game.unlockedRegion) {
   const indices = regionBusinessIndices(region);
   const owned = indices.filter((i) => game.businesses[i].quantity > 0).length;
   const managers = indices.filter((i) => game.businesses[i].manager).length;
-  const requiredManagers = region === 1 ? indices.length : 5;
+  const requiredManagers = region === 1 ? indices.length : 10;
   const earnings = game.regionEarnings[region - 1];
   const scenes = scenesForRegion(region);
   const storyUnlocked = scenes.filter((s) =>

@@ -1,5 +1,6 @@
 // Stable IDs tie saves, upgrades, storefronts, and artwork to the same venture.
 // Keep the original five entries first so version-one positional saves migrate.
+import { REGIONAL_STORE_ROWS } from "./regional-stores.js";
 function venture(
   id,
   name,
@@ -689,6 +690,7 @@ const products = {
   "rare-candy": "a special treat",
   "fire-stone": "a boutique stone",
   "coin-case": "exchange tokens",
+  leftovers: "a packed lunch",
 };
 const palette = [
   "#9bcf83",
@@ -745,7 +747,42 @@ const additions = regionalRows.map(
     };
   },
 );
-export const BUSINESSES = [...original, kantoSky, ...additions];
+const expansionCount = {};
+const expansion = REGIONAL_STORE_ROWS.map(
+  ([region, pokemon, name, good, artScene, description, upgradeName]) => {
+    const tier = expansionCount[region] ?? 0;
+    expansionCount[region] = tier + 1;
+    // Fill the gaps between existing economic tiers instead of adding another
+    // price wall beyond the region's travel goal. Existing prices never change.
+    const [upperCost, upperYield, upperSeconds] = tiers[tier];
+    const previous = tiers[tier - 1];
+    // Rounded base tiers stay readable and avoid needless fractional precision
+    // once later generations scale prices into trillions and beyond.
+    const cost = previous ? Number(Math.sqrt(previous[0] * upperCost).toPrecision(3)) : 75;
+    const yield_ = previous ? Number(Math.sqrt(previous[1] * upperYield).toPrecision(3)) : 20;
+    const seconds = previous ? Math.round((previous[2] + upperSeconds) / 2) : 1;
+    const factor = 10 ** (region - 1);
+    const manager = name.split(" ")[0];
+    const color = palette[(tier + 3) % palette.length];
+    return {
+      ...venture(
+        `r${region}-${pokemon}`, name, description,
+        cost * factor, yield_ * factor, seconds,
+        manager, pokemon, cost * factor * 10, color, upgradeName,
+        storefront(
+          name.slice(manager.length + 1).toUpperCase(), good, products[good],
+          regionTypes[region], "A new neighborhood favorite!", "Thanks for the welcome!", color,
+        ),
+      ),
+      region,
+      expansion: true,
+      artScene,
+      artProp: artScene === "cafe" ? "moomoo-milk" : artScene === "mail" ? "town-map" : "light-clay",
+    };
+  },
+);
+// Append, never insert: positional references in older development tools remain valid.
+export const BUSINESSES = [...original, kantoSky, ...additions, ...expansion];
 export const BUSINESS_ORDER = BUSINESSES.map((_, i) => i).sort(
   (a, b) =>
     BUSINESSES[a].region - BUSINESSES[b].region ||

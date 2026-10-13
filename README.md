@@ -7,11 +7,11 @@
 
 [![Empire checks](https://github.com/radhepa/Meowths-Payday/actions/workflows/check.yml/badge.svg)](https://github.com/radhepa/Meowths-Payday/actions/workflows/check.yml)
 [![Windows](https://img.shields.io/badge/Windows-Offline%20Adventure-39BD88?style=for-the-badge)](https://github.com/radhepa/Meowths-Payday/releases/latest)
-[![Release](https://img.shields.io/badge/Release-v1.1.3-FFD85C?style=for-the-badge)](https://github.com/radhepa/Meowths-Payday/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.2.0-FFD85C?style=for-the-badge)](https://github.com/radhepa/Meowths-Payday/releases/latest)
 
 [**Download for Windows**](https://github.com/radhepa/Meowths-Payday/releases/latest) · [Game guide](docs/GAMEPLAY.md) · [Build it yourself](DESKTOP.md) · [Report a bug](https://github.com/radhepa/Meowths-Payday/issues)
 
-<img src="docs/media/empire-banner.png" width="100%" alt="Meowth’s Pay Day Empire: 100 shops, nine regions, 130 story scenes" />
+<img src="docs/media/empire-banner.png" width="100%" alt="Meowth’s Pay Day Empire: 180 shops, nine regions, 250 story scenes" />
 
 </div>
 
@@ -21,8 +21,8 @@ Start with Meowth, a pocketful of Pokédollars and one Slowpoke Tail Stand. Buil
 
 | 🪙 Grow your empire | 🐾 Bring the town to life | 🗺️ Explore the world |
 | --- | --- | --- |
-| 100 businesses, bulk buying and 105 upgrades | Pokémon managers, walking customers and little reactions | Nine regions with their own shops and native Pokémon |
-| Click Meowth for coins, then put your managers to work | Item-sprite storefronts and expressive PMD portraits | 130 automatic cutscenes across 21 pixel-art settings |
+| 180 businesses, bulk buying and 185 upgrades | Pokémon managers, walking customers and little reactions | Nine regions with their own shops and native Pokémon |
+| Click Meowth for coins, then put your managers to work | Item-sprite storefronts and expressive PMD portraits | 250 automatic cutscenes across 21 pixel-art settings |
 | Two hours of offline income every time you return | Persistent saves with import, export and confirmed reset | Regional milestones carry your empire forward |
 
 ## A peek inside the empire
@@ -44,16 +44,26 @@ Your empire saves automatically. **Trainer Card → Options** includes save tran
 | Region | Shops | Story scenes |
 | --- | ---: | ---: |
 | 🌿 Kanto | 20 | 50 |
-| 🍂 Johto | 10 | 10 |
-| 🌊 Hoenn | 10 | 10 |
-| 🏔️ Sinnoh | 10 | 10 |
-| 🌆 Unova | 10 | 10 |
-| 🌸 Kalos | 10 | 10 |
-| 🌴 Alola | 10 | 10 |
-| ⚙️ Galar | 10 | 10 |
-| ☀️ Paldea | 10 | 10 |
+| 🍂 Johto | 20 | 25 |
+| 🌊 Hoenn | 20 | 25 |
+| 🏔️ Sinnoh | 20 | 25 |
+| 🌆 Unova | 20 | 25 |
+| 🌸 Kalos | 20 | 25 |
+| 🌴 Alola | 20 | 25 |
+| ⚙️ Galar | 20 | 25 |
+| ☀️ Paldea | 20 | 25 |
+
+Every region has 20 shops. Kanto has 50 scenes; Johto through Paldea each have 25 scenes across five chapters. See the [regional story and shop guide](docs/REGIONAL-EXPANSION.md).
 
 Travel unlocks through shop, manager, story and earnings milestones. Earlier managers keep working while you explore the next region. New story scenes play automatically; the journal lets you revisit them.
+
+## A neighborhood in every region
+
+The expanded stories bring festival preparations, harbor deliveries, winter shelters, city services, garden celebrations, island gatherings, match-day teamwork and a world supper to life.
+
+![New automatic scenes across the eight regional markets](docs/media/regional-markets.png)
+
+[Explore the regional landmarks](docs/media/regional-landmarks.png) · [Browse every new store and story milestone](docs/REGIONAL-EXPANSION.md)
 
 <details>
 <summary><strong>Developer backpack — run and build locally</strong></summary>
